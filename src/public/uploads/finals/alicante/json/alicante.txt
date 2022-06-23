@@ -1,0 +1,81 @@
+1003002255;FARMACIA - A/116/F;A/116/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002258;FARMACIA - A/119/F;A/119/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002268;FARMACIA - A/127/F;A/127/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002274;FARMACIA - A/131/F;A/131/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002299;FARMACIA - A/152/F;A/152/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Esta pero no esta al maps)
+
+1003002304;FARMACIA - A/157/F;A/157/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Tancada)
+
+1003002315;FARMACIA - A/166/F;A/166/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002346;FARMACIA - A/193/F;A/193/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002366;FARMACIA - A/21/F;A/21/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002374;FARMACIA - A/217/F;A/217/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+1003002395;FARMACIA - A/237/F;A/237/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Tancada)
+
+1003002412;FARMACIA - A/252/F;A/252/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 1 (Not Found)
+
+
+1003002459;FARMACIA - A/297/F;A/297/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+1003002477;FARMACIA - A/312/F;A/312/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+1003002487;FARMACIA - A/322/F;A/322/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Esta pero no esta al maps)
+
+1003002522;FARMACIA - A/354/F;A/354/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+1003002556;FARMACIA - A/385/F;A/385/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+1003002581;FARMACIA - A/406/F;A/406/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+1003002588;FARMACIA - A/413/F;A/413/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 2 (Not Found)
+
+
+1003002608;FARMACIA - A/431/F;A/431/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Esta pero no esta en el maps)
+
+1003002619;FARMACIA - A/441/F;A/441/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Not Found)
+
+1003002641;FARMACIA - A/461/F;A/461/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Not Found)
+
+1003002657;FARMACIA - A/477/F;A/477/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Not Found)
+
+1003002785;FARMACIA - A/602/F;A/602/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Not Found)
+
+1003002866;FARMACIA - A/686/F;A/686/F;Comunitat Valenciana;Alicante;Alicante;Oficinas de farmacia;Privados
+Pagina 3 (Not Found)
+
+
+
+
+
