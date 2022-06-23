@@ -1,0 +1,86 @@
+<%- include('../includes/layout'); -%>
+
+<%- include('../includes/header'); -%>
+
+<body>
+
+<div class="container b-white shadow mt-5 mb-5 rounded p-3">
+
+    <h3>Create feature</h3><hr>
+
+    <form>
+
+        <div class="form-group">
+            <label for="csvFile">Add CSV:</label>
+            <span class="d-block">CCN, Nombre del centro, Codigo de autorización, Comunidad Autonoma, Provincia, Municipio</span>
+            <input type="text" class="form-control form-control-md" id="csv">
+            <a href="javascript:" id="autocomplete">Autocomplete</a>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col">
+                <label>CNN: ()</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+            <div class="col">
+                <label>Name: ()</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col">
+                <label>CAAC (Código Autonómico de Autorización del Centro):</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+            <div class="col">
+                <label>Comunitat Autonoma:</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col">
+                <label>Province:</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+            <div class="col">
+                <label>City:</label>
+                <input type="text" class="form-control csv-input">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="placeID">Add Place ID:</label>
+            <input type="text" class="form-control form-control-md" id="placeID">
+            <span>To find the id go to <a href="https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder" target="_blank">this link</a></span>
+        </div>
+
+        <div class="mt-5">
+            <button type="submit" class="btn btn-primary" id="preview">Preview</button>
+        </div>
+
+
+    </form>
+
+    <hr>
+
+    <div class="d-none" id="previewContainer">
+
+        <div class="mt-4 text-right">
+            <button class="btn btn-primary" id="copy">Copy</button>
+        </div>
+
+        <code id="previewCode"></code>
+
+    </div>
+
+    <div id="parsed_csv_list" class="mt-5"></div>
+
+</div>
+
+</body>
+
+<script src="/js/createFeature.js"></script>
+
+<%- include('../includes/footer'); -%>
