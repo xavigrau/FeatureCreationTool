@@ -98,10 +98,7 @@ async function getPlace(name, city, id) {
 
 	const url = new URL("https://maps.googleapis.com/maps/api/place/findplacefromtext/json?fields=place_id%2Cformatted_address&type=pharmacy");
 
-
-	const newData = name.split('-');
-
-	url.searchParams.append('input', newData[1]);
+	url.searchParams.append('input', name);
 	url.searchParams.append('key', 'AIzaSyAFNWSHMnOLfDJIZKrJygK8K3IHAI6ua2Q');
 	url.searchParams.append('inputtype', 'textquery');
 	url.searchParams.append('language', 'en');
