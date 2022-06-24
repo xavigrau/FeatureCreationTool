@@ -11,8 +11,6 @@ export default async (req: Request, res: Response) => {
 
     const placeDetails = await getPlaceDetails(place_id);
 
-    console.log(placeDetails);
-
     res.status(200).send({ error: false, data: placeDetails});
 
 }

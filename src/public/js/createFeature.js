@@ -47,6 +47,7 @@ function clickOnAutocomplete() {
 	}
 
 	document.getElementById('placeID').value = '';
+	document.getElementById('previewCode').innerHTML = '';
 
 }
 
@@ -62,7 +63,6 @@ async function clickOnSubmit() {
 	const placeDetails = await getPlaceDetails();
 
 	if (!placeDetails.error) {
-		console.log("entro: " + placeDetails.data);
 		previewJSON(placeDetails.data);
 	}
 

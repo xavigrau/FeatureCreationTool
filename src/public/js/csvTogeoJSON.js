@@ -143,12 +143,15 @@ async function convertToJSON(filename) {
 	const formData = new FormData();
 	formData.append('fileName', filename);
 
-	return await fetch('/services/csv', {
+	console.log(filename);
+
+	return await fetch('/services/csv/', {
 		method: 'POST',
 		body: formData
 	})
 	.then((response) => response.json())
 	.then((data) => {
+		console.log(data);
 		return data;
 	})
 	.catch((err) => {
