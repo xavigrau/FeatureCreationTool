@@ -1,4 +1,4 @@
-const data = require('./public/uploads/finals/barcelona/json/barcelona.json');
+const data = require('./public/uploads/finals/palma/json/palma.json');
 const axios = require("axios");
 
 
@@ -13,9 +13,11 @@ async function init() {
 		await axios.post('http://localhost:4000/v1/add/', data[i])
 			.then((response) => {
 				console.log(response.data.message);
+
 			})
 			.catch((err) => {
 				console.log(err.response?.data);
+
 			})
 	}
 

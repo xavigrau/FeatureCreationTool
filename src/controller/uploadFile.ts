@@ -37,6 +37,7 @@ export default (req: Request, res: Response) => {
                 status: true,
                 message: 'File is uploaded',
                 filename: fileName,
+
             });
         }
     } catch (err) {
