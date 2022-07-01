@@ -12,10 +12,11 @@ async function init() {
 
 		await axios.post('http://localhost:4000/v1/add/', data[i])
 			.then((response) => {
-				console.log(response.data.message);
+				console.log(response.data);
 			})
 			.catch((err) => {
-				console.log(err.response?.data);
+				console.log("entro");
+				console.log(err);
 			})
 	}
 

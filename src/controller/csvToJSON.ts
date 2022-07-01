@@ -42,6 +42,16 @@ export default async (req: Request, res: Response) => {
 
 			const placeDetails = await getPlaceDetails(placeElement.place_id);
 
+			if (dataElement[5] != placeDetails.locality) {
+
+				if (!fs.existsSync(path + date)) {
+					fs.mkdirSync(path + date);
+				}
+				jsonError++;
+				fs.appendFileSync(path + date + "/error.csv", element + '\n', "utf8");
+				return;
+			}
+
 			const object = {
 				type: "Feature",
 				geometry: {
@@ -153,12 +163,13 @@ export async function getPlaceDetails(place_id) {
 		.then(function (response) {
 
 			const data = response.data.result;
-			let postal_code = '', country_code = '', periods = '', weekday_text = '';
+			let postal_code = '', country_code = '', periods = '', weekday_text = '', location = '';
 
 
 			if (data.hasOwnProperty('address_components')) {
 
 				const address_components = response.data.result.address_components;
+				console.log(address_components);
 
 				for (let i = 0; i < address_components.length; i++) {
 
@@ -166,6 +177,10 @@ export async function getPlaceDetails(place_id) {
 
 					if (element.types.includes('postal_code')){
 						postal_code = element.short_name;
+					}
+
+					if (element.types.includes('locality')) {
+						location = element.long_name;
 					}
 
 					if (element.types.includes('country')){
@@ -181,6 +196,7 @@ export async function getPlaceDetails(place_id) {
 			}
 
 			return {
+				locality: location,
 				phone_number: data.international_phone_number,
 				formatted_number: data.formatted_phone_number,
 				postal_code: postal_code,
