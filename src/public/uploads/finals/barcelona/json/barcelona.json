@@ -112474,7 +112474,7 @@
 "formatted_phone_number": "933 09 23 13",
 "place_id": "ChIJadlzFbujpBIR1mBT8o_qPxA",
 "international_phone_number": "+34 933 09 23 13"
-}
+}},
 
 {
 "type": "Feature",
@@ -114448,5 +114448,5 @@
 "place_id": "ChIJM4hVUR-jpBIRdwF7EVHMvwc",
 "international_phone_number": "+34 933 47 33 50"
 }
-},
+}
 ]
