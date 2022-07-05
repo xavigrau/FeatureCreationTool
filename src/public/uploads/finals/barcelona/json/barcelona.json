@@ -110794,3659 +110794,3659 @@
         }
     },
     {
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.176261299999999,
-41.39373619999999
-]
-},
-"properties": {
-"cnn": "0908010989",
-"caac": "F08011299",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "ORTUÑO GOBERN, MARIA PILAR",
-"pharmacy_name": "Farmacia Casp",
-"address": "Carrer de Casp, 67, 08010 Barcelona, Spain",
-"postal_code": "08010",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2000"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2000"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2000"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2000"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2000"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1330"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Friday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Saturday: 9:00 AM – 1:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 65 42 33",
-"place_id": "ChIJLbRvpeWipBIRraDb7AQytQQ",
-"international_phone_number": "+34 932 65 42 33"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.135324,
-41.3815058
-]
-},
-"properties": {
-"cnn": "0908010289",
-"caac": "F08003636",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "FAURA SANMARTIN, JOSE LUIS",
-"pharmacy_name": "Farmàcia Faura",
-"address": "Farmacia, Av. de Madrid, 222, 08014 Barcelona, Spain",
-"postal_code": "08014",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 0,
-"time": "2200"
-},
-"open": {
-"day": 0,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2200"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 10:00 PM",
-"Tuesday: 9:00 AM – 10:00 PM",
-"Wednesday: 9:00 AM – 10:00 PM",
-"Thursday: 9:00 AM – 10:00 PM",
-"Friday: 9:00 AM – 10:00 PM",
-"Saturday: 9:00 AM – 10:00 PM",
-"Sunday: 9:00 AM – 10:00 PM"
-]
-},
-"formatted_phone_number": "933 39 63 32",
-"place_id": "ChIJ51pPVH2YpBIRjFV2pcKNMdI",
-"international_phone_number": "+34 933 39 63 32"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1370812,
-41.3891065
-]
-},
-"properties": {
-"cnn": "0908011595",
-"caac": "F08017710",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "SANCHEZ GARCIA, M.DEL CARME",
-"pharmacy_name": "Farmàcia Deu i mata 96",
-"address": "Carrer de Déu i Mata, 96, 08029 Barcelona, Spain",
-"postal_code": "08029",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1500"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2100"
-},
-"open": {
-"day": 6,
-"time": "1700"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 9:00 PM",
-"Tuesday: 8:30 AM – 9:00 PM",
-"Wednesday: 8:30 AM – 9:00 PM",
-"Thursday: 8:30 AM – 9:00 PM",
-"Friday: 8:30 AM – 9:00 PM",
-"Saturday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 22 59 54",
-"place_id": "ChIJk8AG_HqYpBIRgNX-03CVdgo",
-"international_phone_number": "+34 933 22 59 54"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.155175400000001,
-41.3799
-]
-},
-"properties": {
-"cnn": "0908010336",
-"caac": "F08004164",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "VILLAFRANCA SERRANO, GEMMA",
-"pharmacy_name": "Farmàcia Calabria",
-"address": "Gran Via de les Corts Catalanes, 469, 08015 Barcelona, Spain",
-"postal_code": "08015",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 0,
-"time": "2200"
-},
-"open": {
-"day": 0,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2200"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 10:00 PM",
-"Tuesday: 8:30 AM – 10:00 PM",
-"Wednesday: 8:30 AM – 10:00 PM",
-"Thursday: 8:30 AM – 10:00 PM",
-"Friday: 8:30 AM – 10:00 PM",
-"Saturday: 9:00 AM – 10:00 PM",
-"Sunday: 9:00 AM – 10:00 PM"
-]
-},
-"formatted_phone_number": "934 23 35 88",
-"place_id": "ChIJr5HDtWKipBIRhmLgQ9NqLSw",
-"international_phone_number": "+34 934 23 35 88"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1308154,
-41.397938
-]
-},
-"properties": {
-"cnn": "0908010274",
-"caac": "F08003481",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "CASALS COLL, F. XAVIER/CASALS XIMENES, ELISENDA",
-"pharmacy_name": "Farmàcia Casals",
-"address": "Via Augusta, 276, 08017 Barcelona, Spain",
-"postal_code": "08017",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1330"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 8:30 PM",
-"Tuesday: 8:30 AM – 8:30 PM",
-"Wednesday: 8:30 AM – 8:30 PM",
-"Thursday: 8:30 AM – 8:30 PM",
-"Friday: 8:30 AM – 8:30 PM",
-"Saturday: 9:00 AM – 1:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 03 94 15",
-"place_id": "ChIJVTDNEmyYpBIRse0-SVFIxiM",
-"international_phone_number": "+34 932 03 94 15"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.112675,
-41.3870902
-]
-},
-"properties": {
-"cnn": "0908010762",
-"caac": "F08008842",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "TOUS TREPAT, SALVADOR/TOUS TREPAT, XAVIER",
-"pharmacy_name": "Farmacia Barni",
-"address": "Carrer de Jordi Girona, 2, 08034 Barcelona, Spain",
-"postal_code": "08034",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1330"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 9:00 PM",
-"Tuesday: 9:00 AM – 9:00 PM",
-"Wednesday: 9:00 AM – 9:00 PM",
-"Thursday: 9:00 AM – 9:00 PM",
-"Friday: 9:00 AM – 9:00 PM",
-"Saturday: 9:00 AM – 1:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 03 84 93",
-"place_id": "ChIJJQgroseZpBIRlRkBbIzUQuU",
-"international_phone_number": "+34 932 03 84 93"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1312783,
-41.3996564
-]
-},
-"properties": {
-"cnn": "0908010252",
-"caac": "F08003266",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "ROMANI ROURERA, EVA",
-"pharmacy_name": "Farmàcia Vergós",
-"address": "Carrer dels Vergós, 5, 08017 Barcelona, Spain",
-"postal_code": "08017",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 8:30 PM",
-"Tuesday: 9:00 AM – 8:30 PM",
-"Wednesday: 9:00 AM – 8:30 PM",
-"Thursday: 9:00 AM – 8:30 PM",
-"Friday: 9:00 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 17 58 37",
-"place_id": "ChIJewb8kWyYpBIRn5Jb_AOWclY",
-"international_phone_number": "+34 934 17 58 37"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1343368,
-41.3678624
-]
-},
-"properties": {
-"cnn": "0908011719",
-"caac": "F08019026",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "MACIAN PRADAS, MONTSERRAT",
-"pharmacy_name": "Farmàcia Can Batlló",
-"address": "Carrer de Quetzal, 31, 08014 Barcelona, Spain",
-"postal_code": "08014",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2100"
-},
-"open": {
-"day": 6,
-"time": "1700"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 9:00 PM",
-"Tuesday: 8:30 AM – 9:00 PM",
-"Wednesday: 8:30 AM – 9:00 PM",
-"Thursday: 8:30 AM – 9:00 PM",
-"Friday: 8:30 AM – 9:00 PM",
-"Saturday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 31 27 27",
-"place_id": "ChIJZSNBmpCYpBIRUuRabx-Lzdc",
-"international_phone_number": "+34 933 31 27 27"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1786685,
-41.4058037
-]
-},
-"properties": {
-"cnn": "0908010487",
-"caac": "F08005827",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "PUIG DE DOU, MARIA DE QUERALT",
-"pharmacy_name": "Farmàcia Puig de Dou",
-"address": "C/ de Mallorca, 468, 08013 Barcelona, Spain",
-"postal_code": "08013",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1330"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 9:00 PM",
-"Tuesday: 8:30 AM – 9:00 PM",
-"Wednesday: 8:30 AM – 9:00 PM",
-"Thursday: 8:30 AM – 9:00 PM",
-"Friday: 8:30 AM – 9:00 PM",
-"Saturday: 9:00 AM – 1:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 32 94 56",
-"place_id": "ChIJ73hJ9tuipBIRcC8vmU5kGdQ",
-"international_phone_number": "+34 932 32 94 56"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1460059,
-41.37827429999999
-]
-},
-"properties": {
-"cnn": "0908010655",
-"caac": "F08007711",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "GARCIA BERGA, ESTHER",
-"pharmacy_name": "Farmàcia Aragó 1",
-"address": "C/ d'Aragó, 1, 08015 Barcelona, Spain",
-"postal_code": "08015",
-"schedule": {
-"periods": [
-{
-"open": {
-"day": 0,
-"time": "0000"
-}
-}
-],
-"weekday_text": [
-"Monday: Open 24 hours",
-"Tuesday: Open 24 hours",
-"Wednesday: Open 24 hours",
-"Thursday: Open 24 hours",
-"Friday: Open 24 hours",
-"Saturday: Open 24 hours",
-"Sunday: Open 24 hours"
-]
-},
-"formatted_phone_number": "932 29 60 70",
-"place_id": "ChIJ4yg5c3-ipBIRGDbXkSZawMQ",
-"international_phone_number": "+34 932 29 60 70"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1485974,
-41.4090429
-]
-},
-"properties": {
-"cnn": "0908011165",
-"caac": "F08013144",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "GIRONELLA FERRER,CARLES",
-"pharmacy_name": "Farmàcia Ortopèdia Ferrer",
-"address": "Gràcia i Vallcarca, Avinguda de Vallcarca, 32, 08023 Barcelona, Spain",
-"postal_code": "08023",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1500"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 9:00 PM",
-"Tuesday: 8:30 AM – 9:00 PM",
-"Wednesday: 8:30 AM – 9:00 PM",
-"Thursday: 8:30 AM – 9:00 PM",
-"Friday: 8:30 AM – 9:00 PM",
-"Saturday: 9:00 AM – 3:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 17 68 77",
-"place_id": "ChIJZ0d3XqaipBIRBaeG0yRqms8",
-"international_phone_number": "+34 932 17 68 77"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1238603,
-41.3886523
-]
-},
-"properties": {
-"cnn": "0908011532",
-"caac": "F08017029",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "CUROS PUNTI, IMMACULADA",
-"pharmacy_name": "Farmàcia",
-"address": "Carrer de Lluís Pericot, 11, 08034 Barcelona, Spain",
-"postal_code": "08034",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1500"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1500"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1500"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1500"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1500"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0930"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-"Tuesday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-"Wednesday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-"Thursday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-"Friday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-"Saturday: 9:30 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 03 90 75",
-"place_id": "ChIJSfWQq1uZpBIRqZ2R9bqjczA",
-"international_phone_number": "+34 932 03 90 75"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1945282,
-41.42802320000001
-]
-},
-"properties": {
-"cnn": "0908010578",
-"caac": "F08006813",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "BANSELL BIGAS, XAVIER",
-"pharmacy_name": "Farmacia Pare Manyanet",
-"address": "Carrer del Pare Manyanet, 46, 08030 Barcelona, Spain",
-"postal_code": "08030",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "660 06 09 00",
-"place_id": "ChIJH1L0csK9pBIRhpDk1Evy6ZY",
-"international_phone_number": "+34 660 06 09 00"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1739927,
-41.4176412
-]
-},
-"properties": {
-"cnn": "0908010880",
-"caac": "F08010094",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "GRANCHE GARCIA, SARA",
-"pharmacy_name": "Farmacia Ariadna Villasevil Pau",
-"address": "Carrer del Juliol, 27, 08041 Barcelona, Spain",
-"postal_code": "08041",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 8:30 PM",
-"Tuesday: 9:00 AM – 8:30 PM",
-"Wednesday: 9:00 AM – 8:30 PM",
-"Thursday: 9:00 AM – 8:30 PM",
-"Friday: 9:00 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 36 88 42",
-"place_id": "ChIJnVVfj82ipBIRyuAGYevlLFI",
-"international_phone_number": "+34 934 36 88 42"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1391887,
-41.363734
-]
-},
-"properties": {
-"cnn": "0908011119",
-"caac": "F08012662",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "SALA BOSSY, FRANCESCA/SALA BOSSY, DAVID",
-"pharmacy_name": "Garaje Villar Parking",
-"address": "Carrer de la Mare de Déu de Port, 387, 08038 Barcelona, Spain",
-"postal_code": "08038",
-"schedule": {
-"periods": "",
-"weekday_text": ""
-},
-"place_id": "ChIJS7nP2JiYpBIRZl-gSLmI-Bc"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1937922,
-41.3983895
-]
-},
-"properties": {
-"cnn": "0908010529",
-"caac": "F08006267",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "MARQUEZ VALLS, MARTA",
-"pharmacy_name": "Farmàcia FiM",
-"address": "C. de Pallars, 145, 08018 Barcelona, Spain",
-"postal_code": "08018",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2000"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2000"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2000"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2000"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2000"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Friday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 09 23 13",
-"place_id": "ChIJadlzFbujpBIR1mBT8o_qPxA",
-"international_phone_number": "+34 933 09 23 13"
-}},
-
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1807073,
-41.388104
-]
-},
-"properties": {
-"cnn": "0908010332",
-"caac": "F08004118",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "SANCHEZ GARCIA, JOSE",
-"pharmacy_name": "Farmácia SpalVerd",
-"address": "08003 Barcelona, Spain",
-"postal_code": "08003",
-"schedule": {
-"periods": "",
-"weekday_text": ""
-},
-"place_id": "ChIJv3vqXvyipBIRWMgi6q0Fvjg"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1315141,
-41.3733932
-]
-},
-"properties": {
-"cnn": "0908010559",
-"caac": "F08006605",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "ESTRUCH GARRIGA,ANDREU",
-"pharmacy_name": "Farmàcia Estruch",
-"address": "Rambla de Badal, 156, 08028 Barcelona, Spain",
-"postal_code": "08028",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 8:30 PM",
-"Tuesday: 8:30 AM – 8:30 PM",
-"Wednesday: 8:30 AM – 8:30 PM",
-"Thursday: 8:30 AM – 8:30 PM",
-"Friday: 8:30 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 22 16 18",
-"place_id": "ChIJyfS-ToaYpBIRrE9VPuDQKLg",
-"international_phone_number": "+34 934 22 16 18"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1614855,
-41.3839877
-]
-},
-"properties": {
-"cnn": "0908010582",
-"caac": "F08006852",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "COSTA CODINA, JOSEP",
-"pharmacy_name": "Farmàcia Costa Codina",
-"address": "Gran Via de les Corts Catalanes, 566, 08011 Barcelona, Spain",
-"postal_code": "08011",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 10:00 PM",
-"Tuesday: 8:30 AM – 10:00 PM",
-"Wednesday: 8:30 AM – 10:00 PM",
-"Thursday: 8:30 AM – 10:00 PM",
-"Friday: 8:30 AM – 10:00 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 54 72 77",
-"place_id": "ChIJO9JasIuipBIRmJ2aAiID6CE",
-"international_phone_number": "+34 934 54 72 77"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1464451,
-41.40074260000001
-]
-},
-"properties": {
-"cnn": "0908010327",
-"caac": "F08004051",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "PUSO MAZARICO, JOSEP RAMON",
-"pharmacy_name": "Farmàcia PUSO",
-"address": "Via Augusta, 113, 08006 Barcelona, Spain",
-"postal_code": "08006",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 9:00 PM",
-"Tuesday: 9:00 AM – 9:00 PM",
-"Wednesday: 9:00 AM – 9:00 PM",
-"Thursday: 9:00 AM – 9:00 PM",
-"Friday: 9:00 AM – 9:00 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 09 75 20",
-"place_id": "ChIJMcy8jZ-ipBIRmHt1FMPNE2w",
-"international_phone_number": "+34 932 09 75 20"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.2038842,
-41.42188499999999
-]
-},
-"properties": {
-"cnn": "0908011216",
-"caac": "F08013673",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "SANCHEZ GONZALEZ, CARLOS",
-"pharmacy_name": "Farmàcia Guipuzcoa 131 (365 DIAS)",
-"address": "Rambla de Guipúscoa, 131, 08020 Barcelona, Spain",
-"postal_code": "08020",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 0,
-"time": "2100"
-},
-"open": {
-"day": 0,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2200"
-},
-"open": {
-"day": 6,
-"time": "0800"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:00 AM – 10:00 PM",
-"Tuesday: 8:00 AM – 10:00 PM",
-"Wednesday: 8:00 AM – 10:00 PM",
-"Thursday: 8:00 AM – 10:00 PM",
-"Friday: 8:00 AM – 10:00 PM",
-"Saturday: 8:00 AM – 10:00 PM",
-"Sunday: 9:00 AM – 9:00 PM"
-]
-},
-"formatted_phone_number": "933 13 50 87",
-"place_id": "ChIJZaS3Iji9pBIRoQRcHK0A6f0",
-"international_phone_number": "+34 933 13 50 87"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1607523,
-41.420758
-]
-},
-"properties": {
-"cnn": "0908011231",
-"caac": "F08013828",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "AYMAR TERRICABRAS, MONTSERRAT",
-"pharmacy_name": "Farmàcia Alberto Sánchez Turet",
-"address": "Carrer del Dr. Bové, 121, 08032 Barcelona, Spain",
-"postal_code": "08032",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0930"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "1700"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0930"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "1700"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0930"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "1700"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0930"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "1700"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0930"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "1700"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
-"Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
-"Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
-"Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
-"Friday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
-"Saturday: Closed",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 29 11 32",
-"place_id": "ChIJF43qs7SipBIR4vhkc4bFEA4",
-"international_phone_number": "+34 934 29 11 32"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1374349,
-41.3657918
-]
-},
-"properties": {
-"cnn": "0908011328",
-"caac": "F08014892",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "DOMENECH MORALES,A/DOMENECH MORALES,N",
-"pharmacy_name": "Farmàcia Domènech C.B.",
-"address": "Gran Via de les Corts Catalanes, 152, 08038 Barcelona, Spain",
-"postal_code": "08038",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 8:30 PM",
-"Tuesday: 9:00 AM – 8:30 PM",
-"Wednesday: 9:00 AM – 8:30 PM",
-"Thursday: 9:00 AM – 8:30 PM",
-"Friday: 9:00 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 32 64 97",
-"place_id": "ChIJz3GehJmYpBIRUTXpHSAjyuY",
-"international_phone_number": "+34 933 32 64 97"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1895406,
-41.40571249999999
-]
-},
-"properties": {
-"cnn": "0908011670",
-"caac": "F08018488",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "SEGARRA GURRIA, MARIA PILAR",
-"pharmacy_name": "Farmàcia-Ortopèdia Pl. Glòries",
-"address": "Gran Via de les Corts Catalanes, 839, 08018 Barcelona, Spain",
-"postal_code": "08018",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2030"
-},
-"open": {
-"day": 6,
-"time": "1630"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 8:30 PM",
-"Tuesday: 8:30 AM – 8:30 PM",
-"Wednesday: 8:30 AM – 8:30 PM",
-"Thursday: 8:30 AM – 8:30 PM",
-"Friday: 8:30 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 00 85 15",
-"place_id": "ChIJwcQ7BySjpBIRlqRc3nM4Pmc",
-"international_phone_number": "+34 933 00 85 15"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.2059768,
-41.4201913
-]
-},
-"properties": {
-"cnn": "0908011669",
-"caac": "F08018470",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "MOLINA ROMERO, JOSEFA",
-"pharmacy_name": "Farmacia Josefa Molina",
-"address": "C/ del Maresme, 218, 08020 Barcelona, Spain",
-"postal_code": "08020",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1330"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2000"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1330"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2000"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1330"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2000"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1330"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2000"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1330"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2000"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1330"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Tuesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Wednesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Thursday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Friday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Saturday: 9:00 AM – 1:30 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 13 20 27",
-"place_id": "ChIJe0sIzUqjpBIRbZcLElE0GK0",
-"international_phone_number": "+34 933 13 20 27"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1326074,
-41.40455070000001
-]
-},
-"properties": {
-"cnn": "0908010666",
-"caac": "F08007824",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "MARCH PUJOL, MARIA ANTONIA",
-"pharmacy_name": "Farmàcia Mandri 54",
-"address": "Carrer de Mandri, 54, 08022 Barcelona, Spain",
-"postal_code": "08022",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 0,
-"time": "2200"
-},
-"open": {
-"day": 0,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2200"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 10:00 PM",
-"Tuesday: 9:00 AM – 10:00 PM",
-"Wednesday: 9:00 AM – 10:00 PM",
-"Thursday: 9:00 AM – 10:00 PM",
-"Friday: 9:00 AM – 10:00 PM",
-"Saturday: 9:00 AM – 10:00 PM",
-"Sunday: 9:00 AM – 10:00 PM"
-]
-},
-"formatted_phone_number": "934 17 50 30",
-"place_id": "ChIJifgFrROYpBIRmzOQ1WOhBac",
-"international_phone_number": "+34 934 17 50 30"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1744716,
-41.4305432
-]
-},
-"properties": {
-"cnn": "0908010738",
-"caac": "F08008578",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "VALERO BARLABE, RAIMONT",
-"pharmacy_name": "Farmacia Virrei Amat",
-"address": "Carrer del Doctor Pi i Molist, 1, 08031 Barcelona, Spain",
-"postal_code": "08031",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 0,
-"time": "2200"
-},
-"open": {
-"day": 0,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2200"
-},
-"open": {
-"day": 1,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2200"
-},
-"open": {
-"day": 2,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2200"
-},
-"open": {
-"day": 3,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2200"
-},
-"open": {
-"day": 4,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2200"
-},
-"open": {
-"day": 5,
-"time": "0800"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2200"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:00 AM – 10:00 PM",
-"Tuesday: 8:00 AM – 10:00 PM",
-"Wednesday: 8:00 AM – 10:00 PM",
-"Thursday: 8:00 AM – 10:00 PM",
-"Friday: 8:00 AM – 10:00 PM",
-"Saturday: 9:00 AM – 10:00 PM",
-"Sunday: 9:00 AM – 10:00 PM"
-]
-},
-"formatted_phone_number": "934 08 45 56",
-"place_id": "ChIJfQvnATC9pBIRFarten0dlx4",
-"international_phone_number": "+34 934 08 45 56"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1376128,
-41.4276446
-]
-},
-"properties": {
-"cnn": "0908011468",
-"caac": "F08016346",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "BAÑERES MERINERO, CAROLINA MARIA",
-"pharmacy_name": "Farmàcia Idumea (Laura Artiles Leyes)",
-"address": "C. d'Idumea, 14, 08035 Barcelona, Spain",
-"postal_code": "08035",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 8:30 PM",
-"Tuesday: 9:00 AM – 8:30 PM",
-"Wednesday: 9:00 AM – 8:30 PM",
-"Thursday: 9:00 AM – 8:30 PM",
-"Friday: 9:00 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 11 50 82",
-"place_id": "ChIJ7zm4NfqXpBIRa4KTjEkc4dM",
-"international_phone_number": "+34 932 11 50 82"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1257234,
-41.375058
-]
-},
-"properties": {
-"cnn": "0908010245",
-"caac": "F08003192",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "VERANO FIGUERAS, MARTA",
-"pharmacy_name": "Farmàcia Bassegoda",
-"address": "Carrer de Bassegoda, 11, 08028 Barcelona, Spain",
-"postal_code": "08028",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 9:00 PM",
-"Tuesday: 9:00 AM – 9:00 PM",
-"Wednesday: 9:00 AM – 9:00 PM",
-"Thursday: 9:00 AM – 9:00 PM",
-"Friday: 9:00 AM – 9:00 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 40 09 55",
-"place_id": "ChIJc6FXMvOYpBIRWRHcZ-1tXdM",
-"international_phone_number": "+34 934 40 09 55"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1257234,
-41.375058
-]
-},
-"properties": {
-"cnn": "0908010245",
-"caac": "F08003192",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "VERANO FIGUERAS, MARTA",
-"pharmacy_name": "Farmàcia Bassegoda",
-"address": "Carrer de Bassegoda, 11, 08028 Barcelona, Spain",
-"postal_code": "08028",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 9:00 PM",
-"Tuesday: 9:00 AM – 9:00 PM",
-"Wednesday: 9:00 AM – 9:00 PM",
-"Thursday: 9:00 AM – 9:00 PM",
-"Friday: 9:00 AM – 9:00 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "934 40 09 55",
-"place_id": "ChIJc6FXMvOYpBIRWRHcZ-1tXdM",
-"international_phone_number": "+34 934 40 09 55"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1578061,
-41.4012438
-]
-},
-"properties": {
-"cnn": "0908010435",
-"caac": "F08005270",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "MAS VALLS, M.TERESA/QUETGLAS MAS, M.LIVIA.",
-"pharmacy_name": "Farmàcia Travessera",
-"address": "Travessera de Gràcia, 166, 08012 Barcelona, Spain",
-"postal_code": "08012",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2100"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2100"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2100"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2100"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2100"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "2100"
-},
-"open": {
-"day": 6,
-"time": "1700"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
-"Tuesday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
-"Wednesday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
-"Thursday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
-"Friday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
-"Saturday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 18 89 85",
-"place_id": "ChIJ4dO4gL2ipBIRwI-B7p5iXzk",
-"international_phone_number": "+34 932 18 89 85"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1650039,
-41.40958670000001
-]
-},
-"properties": {
-"cnn": "0908010417",
-"caac": "F08005087",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "FABRE RODRIGUEZ, SERGIO",
-"pharmacy_name": "Farmàcia Estrella",
-"address": "Carrer de Sardenya, 487, 08025 Barcelona, Spain",
-"postal_code": "08025",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "0830"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1400"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 8:30 AM – 8:30 PM",
-"Tuesday: 8:30 AM – 8:30 PM",
-"Wednesday: 8:30 AM – 8:30 PM",
-"Thursday: 8:30 AM – 8:30 PM",
-"Friday: 8:30 AM – 8:30 PM",
-"Saturday: 9:00 AM – 2:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "932 84 35 87",
-"place_id": "ChIJrYOZjMeipBIR8lMF2ipj3ys",
-"international_phone_number": "+34 932 84 35 87"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1047223,
-41.4129592
-]
-},
-"properties": {
-"cnn": "0908010258",
-"caac": "F08003322",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "CARAPUIG ORDOÑEZ, FEDERICO",
-"pharmacy_name": "Farmàcia",
-"address": "Plaça de Vallvidrera, 5, 08017 Barcelona, Spain",
-"postal_code": "08017",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1400"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2030"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1400"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2030"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1400"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2030"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1400"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2030"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1400"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2030"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-"Saturday: Closed",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "930 32 71 71",
-"place_id": "ChIJLapcvtKZpBIRL2D_uhXaQrI",
-"international_phone_number": "+34 930 32 71 71"
-}
-},
-{
-"type": "Feature",
-"geometry": {
-"type": "Point",
-"coordinates": [
-2.1697966,
-41.4100118
-]
-},
-"properties": {
-"cnn": "0908011786",
-"caac": "F08019749",
-"country": "ES",
-"comAut": "Cataluña",
-"province": "Barcelona",
-"town": "Barcelona",
-"name": "COTANDA GARCIA, ANNA MARIA",
-"pharmacy_name": "Farmacia Isabel Enciso",
-"address": "08025, Carrer de Lepant, n°398, 08025 Barcelona, Spain",
-"postal_code": "08025",
-"schedule": {
-"periods": [
-{
-"close": {
-"day": 1,
-"time": "1330"
-},
-"open": {
-"day": 1,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 1,
-"time": "2000"
-},
-"open": {
-"day": 1,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "1330"
-},
-"open": {
-"day": 2,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 2,
-"time": "2000"
-},
-"open": {
-"day": 2,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "1330"
-},
-"open": {
-"day": 3,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 3,
-"time": "2000"
-},
-"open": {
-"day": 3,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "1330"
-},
-"open": {
-"day": 4,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 4,
-"time": "2000"
-},
-"open": {
-"day": 4,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "1330"
-},
-"open": {
-"day": 5,
-"time": "0900"
-}
-},
-{
-"close": {
-"day": 5,
-"time": "2000"
-},
-"open": {
-"day": 5,
-"time": "1630"
-}
-},
-{
-"close": {
-"day": 6,
-"time": "1300"
-},
-"open": {
-"day": 6,
-"time": "0900"
-}
-}
-],
-"weekday_text": [
-"Monday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Tuesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Wednesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Thursday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Friday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-"Saturday: 9:00 AM – 1:00 PM",
-"Sunday: Closed"
-]
-},
-"formatted_phone_number": "933 47 33 50",
-"place_id": "ChIJM4hVUR-jpBIRdwF7EVHMvwc",
-"international_phone_number": "+34 933 47 33 50"
-}
-}
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.176261299999999,
+                41.39373619999999
+            ]
+        },
+        "properties": {
+            "cnn": "0908010989",
+            "caac": "F08011299",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "ORTUÑO GOBERN, MARIA PILAR",
+            "pharmacy_name": "Farmacia Casp",
+            "address": "Carrer de Casp, 67, 08010 Barcelona, Spain",
+            "postal_code": "08010",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Saturday: 9:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 65 42 33",
+            "place_id": "ChIJLbRvpeWipBIRraDb7AQytQQ",
+            "international_phone_number": "+34 932 65 42 33"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.135324,
+                41.3815058
+            ]
+        },
+        "properties": {
+            "cnn": "0908010289",
+            "caac": "F08003636",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "FAURA SANMARTIN, JOSE LUIS",
+            "pharmacy_name": "Farmàcia Faura",
+            "address": "Farmacia, Av. de Madrid, 222, 08014 Barcelona, Spain",
+            "postal_code": "08014",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 10:00 PM",
+                    "Friday: 9:00 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "formatted_phone_number": "933 39 63 32",
+            "place_id": "ChIJ51pPVH2YpBIRjFV2pcKNMdI",
+            "international_phone_number": "+34 933 39 63 32"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1370812,
+                41.3891065
+            ]
+        },
+        "properties": {
+            "cnn": "0908011595",
+            "caac": "F08017710",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "SANCHEZ GARCIA, M.DEL CARME",
+            "pharmacy_name": "Farmàcia Deu i mata 96",
+            "address": "Carrer de Déu i Mata, 96, 08029 Barcelona, Spain",
+            "postal_code": "08029",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:00 PM",
+                    "Tuesday: 8:30 AM – 9:00 PM",
+                    "Wednesday: 8:30 AM – 9:00 PM",
+                    "Thursday: 8:30 AM – 9:00 PM",
+                    "Friday: 8:30 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 22 59 54",
+            "place_id": "ChIJk8AG_HqYpBIRgNX-03CVdgo",
+            "international_phone_number": "+34 933 22 59 54"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.155175400000001,
+                41.3799
+            ]
+        },
+        "properties": {
+            "cnn": "0908010336",
+            "caac": "F08004164",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "VILLAFRANCA SERRANO, GEMMA",
+            "pharmacy_name": "Farmàcia Calabria",
+            "address": "Gran Via de les Corts Catalanes, 469, 08015 Barcelona, Spain",
+            "postal_code": "08015",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 10:00 PM",
+                    "Tuesday: 8:30 AM – 10:00 PM",
+                    "Wednesday: 8:30 AM – 10:00 PM",
+                    "Thursday: 8:30 AM – 10:00 PM",
+                    "Friday: 8:30 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "formatted_phone_number": "934 23 35 88",
+            "place_id": "ChIJr5HDtWKipBIRhmLgQ9NqLSw",
+            "international_phone_number": "+34 934 23 35 88"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1308154,
+                41.397938
+            ]
+        },
+        "properties": {
+            "cnn": "0908010274",
+            "caac": "F08003481",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "CASALS COLL, F. XAVIER/CASALS XIMENES, ELISENDA",
+            "pharmacy_name": "Farmàcia Casals",
+            "address": "Via Augusta, 276, 08017 Barcelona, Spain",
+            "postal_code": "08017",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 8:30 PM",
+                    "Tuesday: 8:30 AM – 8:30 PM",
+                    "Wednesday: 8:30 AM – 8:30 PM",
+                    "Thursday: 8:30 AM – 8:30 PM",
+                    "Friday: 8:30 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 03 94 15",
+            "place_id": "ChIJVTDNEmyYpBIRse0-SVFIxiM",
+            "international_phone_number": "+34 932 03 94 15"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.112675,
+                41.3870902
+            ]
+        },
+        "properties": {
+            "cnn": "0908010762",
+            "caac": "F08008842",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "TOUS TREPAT, SALVADOR/TOUS TREPAT, XAVIER",
+            "pharmacy_name": "Farmacia Barni",
+            "address": "Carrer de Jordi Girona, 2, 08034 Barcelona, Spain",
+            "postal_code": "08034",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 9:00 PM",
+                    "Tuesday: 9:00 AM – 9:00 PM",
+                    "Wednesday: 9:00 AM – 9:00 PM",
+                    "Thursday: 9:00 AM – 9:00 PM",
+                    "Friday: 9:00 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 03 84 93",
+            "place_id": "ChIJJQgroseZpBIRlRkBbIzUQuU",
+            "international_phone_number": "+34 932 03 84 93"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1312783,
+                41.3996564
+            ]
+        },
+        "properties": {
+            "cnn": "0908010252",
+            "caac": "F08003266",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "ROMANI ROURERA, EVA",
+            "pharmacy_name": "Farmàcia Vergós",
+            "address": "Carrer dels Vergós, 5, 08017 Barcelona, Spain",
+            "postal_code": "08017",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 8:30 PM",
+                    "Tuesday: 9:00 AM – 8:30 PM",
+                    "Wednesday: 9:00 AM – 8:30 PM",
+                    "Thursday: 9:00 AM – 8:30 PM",
+                    "Friday: 9:00 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 17 58 37",
+            "place_id": "ChIJewb8kWyYpBIRn5Jb_AOWclY",
+            "international_phone_number": "+34 934 17 58 37"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1343368,
+                41.3678624
+            ]
+        },
+        "properties": {
+            "cnn": "0908011719",
+            "caac": "F08019026",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "MACIAN PRADAS, MONTSERRAT",
+            "pharmacy_name": "Farmàcia Can Batlló",
+            "address": "Carrer de Quetzal, 31, 08014 Barcelona, Spain",
+            "postal_code": "08014",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:00 PM",
+                    "Tuesday: 8:30 AM – 9:00 PM",
+                    "Wednesday: 8:30 AM – 9:00 PM",
+                    "Thursday: 8:30 AM – 9:00 PM",
+                    "Friday: 8:30 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 31 27 27",
+            "place_id": "ChIJZSNBmpCYpBIRUuRabx-Lzdc",
+            "international_phone_number": "+34 933 31 27 27"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1786685,
+                41.4058037
+            ]
+        },
+        "properties": {
+            "cnn": "0908010487",
+            "caac": "F08005827",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "PUIG DE DOU, MARIA DE QUERALT",
+            "pharmacy_name": "Farmàcia Puig de Dou",
+            "address": "C/ de Mallorca, 468, 08013 Barcelona, Spain",
+            "postal_code": "08013",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:00 PM",
+                    "Tuesday: 8:30 AM – 9:00 PM",
+                    "Wednesday: 8:30 AM – 9:00 PM",
+                    "Thursday: 8:30 AM – 9:00 PM",
+                    "Friday: 8:30 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 32 94 56",
+            "place_id": "ChIJ73hJ9tuipBIRcC8vmU5kGdQ",
+            "international_phone_number": "+34 932 32 94 56"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1460059,
+                41.37827429999999
+            ]
+        },
+        "properties": {
+            "cnn": "0908010655",
+            "caac": "F08007711",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "GARCIA BERGA, ESTHER",
+            "pharmacy_name": "Farmàcia Aragó 1",
+            "address": "C/ d'Aragó, 1, 08015 Barcelona, Spain",
+            "postal_code": "08015",
+            "schedule": {
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "formatted_phone_number": "932 29 60 70",
+            "place_id": "ChIJ4yg5c3-ipBIRGDbXkSZawMQ",
+            "international_phone_number": "+34 932 29 60 70"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1485974,
+                41.4090429
+            ]
+        },
+        "properties": {
+            "cnn": "0908011165",
+            "caac": "F08013144",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "GIRONELLA FERRER,CARLES",
+            "pharmacy_name": "Farmàcia Ortopèdia Ferrer",
+            "address": "Gràcia i Vallcarca, Avinguda de Vallcarca, 32, 08023 Barcelona, Spain",
+            "postal_code": "08023",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:00 PM",
+                    "Tuesday: 8:30 AM – 9:00 PM",
+                    "Wednesday: 8:30 AM – 9:00 PM",
+                    "Thursday: 8:30 AM – 9:00 PM",
+                    "Friday: 8:30 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 3:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 17 68 77",
+            "place_id": "ChIJZ0d3XqaipBIRBaeG0yRqms8",
+            "international_phone_number": "+34 932 17 68 77"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1238603,
+                41.3886523
+            ]
+        },
+        "properties": {
+            "cnn": "0908011532",
+            "caac": "F08017029",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "CUROS PUNTI, IMMACULADA",
+            "pharmacy_name": "Farmàcia",
+            "address": "Carrer de Lluís Pericot, 11, 08034 Barcelona, Spain",
+            "postal_code": "08034",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0930"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
+                    "Tuesday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
+                    "Wednesday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
+                    "Thursday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
+                    "Friday: 9:00 AM – 3:00 PM, 4:30 – 9:00 PM",
+                    "Saturday: 9:30 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 03 90 75",
+            "place_id": "ChIJSfWQq1uZpBIRqZ2R9bqjczA",
+            "international_phone_number": "+34 932 03 90 75"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1945282,
+                41.42802320000001
+            ]
+        },
+        "properties": {
+            "cnn": "0908010578",
+            "caac": "F08006813",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "BANSELL BIGAS, XAVIER",
+            "pharmacy_name": "Farmacia Pare Manyanet",
+            "address": "Carrer del Pare Manyanet, 46, 08030 Barcelona, Spain",
+            "postal_code": "08030",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "660 06 09 00",
+            "place_id": "ChIJH1L0csK9pBIRhpDk1Evy6ZY",
+            "international_phone_number": "+34 660 06 09 00"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1739927,
+                41.4176412
+            ]
+        },
+        "properties": {
+            "cnn": "0908010880",
+            "caac": "F08010094",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "GRANCHE GARCIA, SARA",
+            "pharmacy_name": "Farmacia Ariadna Villasevil Pau",
+            "address": "Carrer del Juliol, 27, 08041 Barcelona, Spain",
+            "postal_code": "08041",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 8:30 PM",
+                    "Tuesday: 9:00 AM – 8:30 PM",
+                    "Wednesday: 9:00 AM – 8:30 PM",
+                    "Thursday: 9:00 AM – 8:30 PM",
+                    "Friday: 9:00 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 36 88 42",
+            "place_id": "ChIJnVVfj82ipBIRyuAGYevlLFI",
+            "international_phone_number": "+34 934 36 88 42"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1391887,
+                41.363734
+            ]
+        },
+        "properties": {
+            "cnn": "0908011119",
+            "caac": "F08012662",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "SALA BOSSY, FRANCESCA/SALA BOSSY, DAVID",
+            "pharmacy_name": "Garaje Villar Parking",
+            "address": "Carrer de la Mare de Déu de Port, 387, 08038 Barcelona, Spain",
+            "postal_code": "08038",
+            "schedule": {
+                "periods": "",
+                "weekday_text": ""
+            },
+            "place_id": "ChIJS7nP2JiYpBIRZl-gSLmI-Bc"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1937922,
+                41.3983895
+            ]
+        },
+        "properties": {
+            "cnn": "0908010529",
+            "caac": "F08006267",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "MARQUEZ VALLS, MARTA",
+            "pharmacy_name": "Farmàcia FiM",
+            "address": "C. de Pallars, 145, 08018 Barcelona, Spain",
+            "postal_code": "08018",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 09 23 13",
+            "place_id": "ChIJadlzFbujpBIR1mBT8o_qPxA",
+            "international_phone_number": "+34 933 09 23 13"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1807073,
+                41.388104
+            ]
+        },
+        "properties": {
+            "cnn": "0908010332",
+            "caac": "F08004118",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "SANCHEZ GARCIA, JOSE",
+            "pharmacy_name": "Farmácia SpalVerd",
+            "address": "08003 Barcelona, Spain",
+            "postal_code": "08003",
+            "schedule": {
+                "periods": "",
+                "weekday_text": ""
+            },
+            "place_id": "ChIJv3vqXvyipBIRWMgi6q0Fvjg"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1315141,
+                41.3733932
+            ]
+        },
+        "properties": {
+            "cnn": "0908010559",
+            "caac": "F08006605",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "ESTRUCH GARRIGA,ANDREU",
+            "pharmacy_name": "Farmàcia Estruch",
+            "address": "Rambla de Badal, 156, 08028 Barcelona, Spain",
+            "postal_code": "08028",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 8:30 PM",
+                    "Tuesday: 8:30 AM – 8:30 PM",
+                    "Wednesday: 8:30 AM – 8:30 PM",
+                    "Thursday: 8:30 AM – 8:30 PM",
+                    "Friday: 8:30 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 22 16 18",
+            "place_id": "ChIJyfS-ToaYpBIRrE9VPuDQKLg",
+            "international_phone_number": "+34 934 22 16 18"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1614855,
+                41.3839877
+            ]
+        },
+        "properties": {
+            "cnn": "0908010582",
+            "caac": "F08006852",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "COSTA CODINA, JOSEP",
+            "pharmacy_name": "Farmàcia Costa Codina",
+            "address": "Gran Via de les Corts Catalanes, 566, 08011 Barcelona, Spain",
+            "postal_code": "08011",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 10:00 PM",
+                    "Tuesday: 8:30 AM – 10:00 PM",
+                    "Wednesday: 8:30 AM – 10:00 PM",
+                    "Thursday: 8:30 AM – 10:00 PM",
+                    "Friday: 8:30 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 54 72 77",
+            "place_id": "ChIJO9JasIuipBIRmJ2aAiID6CE",
+            "international_phone_number": "+34 934 54 72 77"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1464451,
+                41.40074260000001
+            ]
+        },
+        "properties": {
+            "cnn": "0908010327",
+            "caac": "F08004051",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "PUSO MAZARICO, JOSEP RAMON",
+            "pharmacy_name": "Farmàcia PUSO",
+            "address": "Via Augusta, 113, 08006 Barcelona, Spain",
+            "postal_code": "08006",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 9:00 PM",
+                    "Tuesday: 9:00 AM – 9:00 PM",
+                    "Wednesday: 9:00 AM – 9:00 PM",
+                    "Thursday: 9:00 AM – 9:00 PM",
+                    "Friday: 9:00 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 09 75 20",
+            "place_id": "ChIJMcy8jZ-ipBIRmHt1FMPNE2w",
+            "international_phone_number": "+34 932 09 75 20"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.2038842,
+                41.42188499999999
+            ]
+        },
+        "properties": {
+            "cnn": "0908011216",
+            "caac": "F08013673",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "SANCHEZ GONZALEZ, CARLOS",
+            "pharmacy_name": "Farmàcia Guipuzcoa 131 (365 DIAS)",
+            "address": "Rambla de Guipúscoa, 131, 08020 Barcelona, Spain",
+            "postal_code": "08020",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 10:00 PM",
+                    "Tuesday: 8:00 AM – 10:00 PM",
+                    "Wednesday: 8:00 AM – 10:00 PM",
+                    "Thursday: 8:00 AM – 10:00 PM",
+                    "Friday: 8:00 AM – 10:00 PM",
+                    "Saturday: 8:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 9:00 PM"
+                ]
+            },
+            "formatted_phone_number": "933 13 50 87",
+            "place_id": "ChIJZaS3Iji9pBIRoQRcHK0A6f0",
+            "international_phone_number": "+34 933 13 50 87"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1607523,
+                41.420758
+            ]
+        },
+        "properties": {
+            "cnn": "0908011231",
+            "caac": "F08013828",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "AYMAR TERRICABRAS, MONTSERRAT",
+            "pharmacy_name": "Farmàcia Alberto Sánchez Turet",
+            "address": "Carrer del Dr. Bové, 121, 08032 Barcelona, Spain",
+            "postal_code": "08032",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 29 11 32",
+            "place_id": "ChIJF43qs7SipBIR4vhkc4bFEA4",
+            "international_phone_number": "+34 934 29 11 32"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1374349,
+                41.3657918
+            ]
+        },
+        "properties": {
+            "cnn": "0908011328",
+            "caac": "F08014892",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "DOMENECH MORALES,A/DOMENECH MORALES,N",
+            "pharmacy_name": "Farmàcia Domènech C.B.",
+            "address": "Gran Via de les Corts Catalanes, 152, 08038 Barcelona, Spain",
+            "postal_code": "08038",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 8:30 PM",
+                    "Tuesday: 9:00 AM – 8:30 PM",
+                    "Wednesday: 9:00 AM – 8:30 PM",
+                    "Thursday: 9:00 AM – 8:30 PM",
+                    "Friday: 9:00 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 32 64 97",
+            "place_id": "ChIJz3GehJmYpBIRUTXpHSAjyuY",
+            "international_phone_number": "+34 933 32 64 97"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1895406,
+                41.40571249999999
+            ]
+        },
+        "properties": {
+            "cnn": "0908011670",
+            "caac": "F08018488",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "SEGARRA GURRIA, MARIA PILAR",
+            "pharmacy_name": "Farmàcia-Ortopèdia Pl. Glòries",
+            "address": "Gran Via de les Corts Catalanes, 839, 08018 Barcelona, Spain",
+            "postal_code": "08018",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1630"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 8:30 PM",
+                    "Tuesday: 8:30 AM – 8:30 PM",
+                    "Wednesday: 8:30 AM – 8:30 PM",
+                    "Thursday: 8:30 AM – 8:30 PM",
+                    "Friday: 8:30 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 00 85 15",
+            "place_id": "ChIJwcQ7BySjpBIRlqRc3nM4Pmc",
+            "international_phone_number": "+34 933 00 85 15"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.2059768,
+                41.4201913
+            ]
+        },
+        "properties": {
+            "cnn": "0908011669",
+            "caac": "F08018470",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "MOLINA ROMERO, JOSEFA",
+            "pharmacy_name": "Farmacia Josefa Molina",
+            "address": "C/ del Maresme, 218, 08020 Barcelona, Spain",
+            "postal_code": "08020",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Tuesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Wednesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Thursday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Friday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Saturday: 9:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 13 20 27",
+            "place_id": "ChIJe0sIzUqjpBIRbZcLElE0GK0",
+            "international_phone_number": "+34 933 13 20 27"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1326074,
+                41.40455070000001
+            ]
+        },
+        "properties": {
+            "cnn": "0908010666",
+            "caac": "F08007824",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "MARCH PUJOL, MARIA ANTONIA",
+            "pharmacy_name": "Farmàcia Mandri 54",
+            "address": "Carrer de Mandri, 54, 08022 Barcelona, Spain",
+            "postal_code": "08022",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 10:00 PM",
+                    "Friday: 9:00 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "formatted_phone_number": "934 17 50 30",
+            "place_id": "ChIJifgFrROYpBIRmzOQ1WOhBac",
+            "international_phone_number": "+34 934 17 50 30"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1744716,
+                41.4305432
+            ]
+        },
+        "properties": {
+            "cnn": "0908010738",
+            "caac": "F08008578",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "VALERO BARLABE, RAIMONT",
+            "pharmacy_name": "Farmacia Virrei Amat",
+            "address": "Carrer del Doctor Pi i Molist, 1, 08031 Barcelona, Spain",
+            "postal_code": "08031",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 10:00 PM",
+                    "Tuesday: 8:00 AM – 10:00 PM",
+                    "Wednesday: 8:00 AM – 10:00 PM",
+                    "Thursday: 8:00 AM – 10:00 PM",
+                    "Friday: 8:00 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "formatted_phone_number": "934 08 45 56",
+            "place_id": "ChIJfQvnATC9pBIRFarten0dlx4",
+            "international_phone_number": "+34 934 08 45 56"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1376128,
+                41.4276446
+            ]
+        },
+        "properties": {
+            "cnn": "0908011468",
+            "caac": "F08016346",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "BAÑERES MERINERO, CAROLINA MARIA",
+            "pharmacy_name": "Farmàcia Idumea (Laura Artiles Leyes)",
+            "address": "C. d'Idumea, 14, 08035 Barcelona, Spain",
+            "postal_code": "08035",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 8:30 PM",
+                    "Tuesday: 9:00 AM – 8:30 PM",
+                    "Wednesday: 9:00 AM – 8:30 PM",
+                    "Thursday: 9:00 AM – 8:30 PM",
+                    "Friday: 9:00 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 11 50 82",
+            "place_id": "ChIJ7zm4NfqXpBIRa4KTjEkc4dM",
+            "international_phone_number": "+34 932 11 50 82"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1257234,
+                41.375058
+            ]
+        },
+        "properties": {
+            "cnn": "0908010245",
+            "caac": "F08003192",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "VERANO FIGUERAS, MARTA",
+            "pharmacy_name": "Farmàcia Bassegoda",
+            "address": "Carrer de Bassegoda, 11, 08028 Barcelona, Spain",
+            "postal_code": "08028",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 9:00 PM",
+                    "Tuesday: 9:00 AM – 9:00 PM",
+                    "Wednesday: 9:00 AM – 9:00 PM",
+                    "Thursday: 9:00 AM – 9:00 PM",
+                    "Friday: 9:00 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 40 09 55",
+            "place_id": "ChIJc6FXMvOYpBIRWRHcZ-1tXdM",
+            "international_phone_number": "+34 934 40 09 55"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1257234,
+                41.375058
+            ]
+        },
+        "properties": {
+            "cnn": "0908010245",
+            "caac": "F08003192",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "VERANO FIGUERAS, MARTA",
+            "pharmacy_name": "Farmàcia Bassegoda",
+            "address": "Carrer de Bassegoda, 11, 08028 Barcelona, Spain",
+            "postal_code": "08028",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 9:00 PM",
+                    "Tuesday: 9:00 AM – 9:00 PM",
+                    "Wednesday: 9:00 AM – 9:00 PM",
+                    "Thursday: 9:00 AM – 9:00 PM",
+                    "Friday: 9:00 AM – 9:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "934 40 09 55",
+            "place_id": "ChIJc6FXMvOYpBIRWRHcZ-1tXdM",
+            "international_phone_number": "+34 934 40 09 55"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1578061,
+                41.4012438
+            ]
+        },
+        "properties": {
+            "cnn": "0908010435",
+            "caac": "F08005270",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "MAS VALLS, M.TERESA/QUETGLAS MAS, M.LIVIA.",
+            "pharmacy_name": "Farmàcia Travessera",
+            "address": "Travessera de Gràcia, 166, 08012 Barcelona, Spain",
+            "postal_code": "08012",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 9:00 PM",
+                    "Saturday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 18 89 85",
+            "place_id": "ChIJ4dO4gL2ipBIRwI-B7p5iXzk",
+            "international_phone_number": "+34 932 18 89 85"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1650039,
+                41.40958670000001
+            ]
+        },
+        "properties": {
+            "cnn": "0908010417",
+            "caac": "F08005087",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "FABRE RODRIGUEZ, SERGIO",
+            "pharmacy_name": "Farmàcia Estrella",
+            "address": "Carrer de Sardenya, 487, 08025 Barcelona, Spain",
+            "postal_code": "08025",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 8:30 PM",
+                    "Tuesday: 8:30 AM – 8:30 PM",
+                    "Wednesday: 8:30 AM – 8:30 PM",
+                    "Thursday: 8:30 AM – 8:30 PM",
+                    "Friday: 8:30 AM – 8:30 PM",
+                    "Saturday: 9:00 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "932 84 35 87",
+            "place_id": "ChIJrYOZjMeipBIR8lMF2ipj3ys",
+            "international_phone_number": "+34 932 84 35 87"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1047223,
+                41.4129592
+            ]
+        },
+        "properties": {
+            "cnn": "0908010258",
+            "caac": "F08003322",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "CARAPUIG ORDOÑEZ, FEDERICO",
+            "pharmacy_name": "Farmàcia",
+            "address": "Plaça de Vallvidrera, 5, 08017 Barcelona, Spain",
+            "postal_code": "08017",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "930 32 71 71",
+            "place_id": "ChIJLapcvtKZpBIRL2D_uhXaQrI",
+            "international_phone_number": "+34 930 32 71 71"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.1697966,
+                41.4100118
+            ]
+        },
+        "properties": {
+            "cnn": "0908011786",
+            "caac": "F08019749",
+            "country": "ES",
+            "comAut": "Cataluña",
+            "province": "Barcelona",
+            "town": "Barcelona",
+            "name": "COTANDA GARCIA, ANNA MARIA",
+            "pharmacy_name": "Farmacia Isabel Enciso",
+            "address": "08025, Carrer de Lepant, n°398, 08025 Barcelona, Spain",
+            "postal_code": "08025",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Tuesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Wednesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Thursday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Friday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
+                    "Saturday: 9:00 AM – 1:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "933 47 33 50",
+            "place_id": "ChIJM4hVUR-jpBIRdwF7EVHMvwc",
+            "international_phone_number": "+34 933 47 33 50"
+        }
+    }
 ]
