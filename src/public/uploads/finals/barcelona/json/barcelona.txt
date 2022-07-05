@@ -84,3 +84,12 @@ Pagina 17 (Not Found) (Nivel Hard)
 
 0908011028;VALLS CEBRIAN, MARIA TERESA;F08011690;Cataluña;Barcelona;Barcelona;Oficinas de farmacia;Privados
 Pagina 20 (Esta pero no esta)
+
+0908011413;GAYA MONTSERRAT, MERCE;F08015776;Cataluña;Barcelona;Barcelona;Oficinas de farmacia;Privados
+Pagina 9 (No esta en el mapa)
+
+0908011407;GUARDIA PASCUAL, DIDAC;F08015712;Cataluña;Barcelona;Barcelona;Oficinas de farmacia;Privados
+Pagina 10 (tancada permanentment)
+
+0908011148;PEREZ SANCHEZ, JAUME;F08012976;Cataluña;Barcelona;Barcelona;Oficinas de farmacia;Privados
+Pagina 15 (no marker)

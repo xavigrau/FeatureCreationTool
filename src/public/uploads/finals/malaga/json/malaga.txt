@@ -69,3 +69,6 @@ Pagina 6 (Not Found)
 0129006473;VERA CASTILLO, ANA;4423;Andalucía;Málaga;Málaga;Oficinas de farmacia;Privados
 Pagina 6 (Not Found)
 
+0129006401;LEIVA VERA, JUAN ANTONIO;4246;Andalucía;Málaga;Málaga;Oficinas de farmacia;Privados
+Pagina 3 (address incorrecta)
+

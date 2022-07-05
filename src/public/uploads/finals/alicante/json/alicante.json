@@ -4,35 +4,6 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -0.4913092000000001,
-                38.3872876
-            ]
-        },
-        "properties": {
-            "cnn": "1003002242",
-            "caac": "A/105/F",
-            "country": "ES",
-            "comAut": "Comunitat Valenciana",
-            "province": "Alicante",
-            "town": "Alicante",
-            "name": "FARMACIA - A/105/F",
-            "pharmacy_name": "Farmacia Carmen Santamaría Moreno",
-            "address": "Pl. de la Constitución, 3, 03112 Villafranqueza, Alicante, Spain",
-            "postal_code": "03112",
-            "schedule": {
-                "periods": "",
-                "weekday_text": ""
-            },
-            "formatted_phone_number": "965 18 41 75",
-            "place_id": "ChIJlf0sOqk3Yg0Rybp1v6TM1Lg",
-            "international_phone_number": "+34 965 18 41 75"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
                 -0.4921628,
                 38.3447501
             ]
@@ -14097,6 +14068,33 @@
             "formatted_phone_number": "965 92 44 93",
             "place_id": "ChIJXS5xp1o2Yg0RV3hMZua57V0",
             "international_phone_number": "+34 965 92 44 93"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.491307,
+                38.3872954
+            ]
+        },
+        "properties": {
+            "cnn": "1003002242",
+            "caac": "A/105/F",
+            "country": "ES",
+            "comAut": "Comunitat Valenciana",
+            "province": "Alicante",
+            "town": "Alicante",
+            "name": "FARMACIA - A/105/F",
+            "pharmacy_name": "Pl. de la Constitución, 3",
+            "address": "Pl. de la Constitución, 3, 03112 Alicante (Alacant), Alicante, Spain",
+            "postal_code": "03112",
+            "schedule": {
+                "periods": "",
+                "weekday_text": ""
+            },
+            "place_id": "ChIJ3apTo9k2Yg0RGvT-9qWUgQE"
         }
     }
 ]

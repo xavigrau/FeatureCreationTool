@@ -1,4 +1,4 @@
-const data = require('./public/uploads/finals/palma/json/palma.json');
+const data = require('./public/uploads/finals/plusPalma.json');
 const axios = require("axios");
 
 

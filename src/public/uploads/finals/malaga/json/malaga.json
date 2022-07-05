@@ -1115,154 +1115,6 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.25991,
-                36.9944
-            ]
-        },
-        "properties": {
-            "cnn": "0129006242",
-            "caac": "4567",
-            "country": "ES",
-            "comAut": "Andalucía",
-            "province": "Málaga",
-            "town": "Málaga",
-            "name": "AGUILAR HURTADO, FELISA /HURTADO AGUILAR, INMACULADA",
-            "pharmacy_name": "Felisa Aguilar Hurtado",
-            "address": "C. Medíodía, 18, 29194 Alfarnate, Málaga, Spain",
-            "postal_code": "29194",
-            "schedule": {
-                "periods": [
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 6,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 6,
-                            "time": "1000"
-                        }
-                    }
-                ],
-                "weekday_text": [
-                    "Monday: 9:30 AM – 1:30 PM, 5:00 – 8:00 PM",
-                    "Tuesday: 9:30 AM – 1:30 PM, 5:00 – 8:00 PM",
-                    "Wednesday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
-                    "Thursday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
-                    "Friday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
-                    "Saturday: 10:00 AM – 1:30 PM",
-                    "Sunday: Closed"
-                ]
-            },
-            "formatted_phone_number": "952 75 90 78",
-            "place_id": "ChIJTfVkb7tlcg0RV9b0g3VE4Aw",
-            "international_phone_number": "+34 952 75 90 78"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
                 -4.4177462,
                 36.7248787
             ]
@@ -14405,154 +14257,6 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.2875512,
-                36.7156125
-            ]
-        },
-        "properties": {
-            "cnn": "0129006759",
-            "caac": "4681",
-            "country": "ES",
-            "comAut": "Andalucía",
-            "province": "Málaga",
-            "town": "Málaga",
-            "name": "LAZA GARCIA, JOSE MARIA",
-            "pharmacy_name": "Farmacia Laza García",
-            "address": "Av. del Mediterráneo, 93, BAJO, 29730 Rincón de la Victoria, Málaga, Spain",
-            "postal_code": "29730",
-            "schedule": {
-                "periods": [
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 6,
-                            "time": "1400"
-                        },
-                        "open": {
-                            "day": 6,
-                            "time": "0900"
-                        }
-                    }
-                ],
-                "weekday_text": [
-                    "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-                    "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-                    "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-                    "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-                    "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
-                    "Saturday: 9:00 AM – 2:00 PM",
-                    "Sunday: Closed"
-                ]
-            },
-            "formatted_phone_number": "952 40 14 48",
-            "place_id": "ChIJrTSF1nFacg0RXlZ3Mf2QePA",
-            "international_phone_number": "+34 952 40 14 48"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
                 -4.4407725,
                 36.7213363
             ]
@@ -15010,154 +14714,6 @@
             "formatted_phone_number": "952 21 24 75",
             "place_id": "ChIJKSwwVbn3cg0RZEVSxpG50SA",
             "international_phone_number": "+34 952 21 24 75"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -4.5680716,
-                36.73288429999999
-            ]
-        },
-        "properties": {
-            "cnn": "0129006401",
-            "caac": "4246",
-            "country": "ES",
-            "comAut": "Andalucía",
-            "province": "Málaga",
-            "town": "Málaga",
-            "name": "LEIVA VERA, JUAN ANTONIO",
-            "pharmacy_name": "Farmacia",
-            "address": "C. Tr.ª de Maqueda, 48, 29591 Maqueda, Málaga, Spain",
-            "postal_code": "29591",
-            "schedule": {
-                "periods": [
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "0900"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "2000"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "1630"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 6,
-                            "time": "1330"
-                        },
-                        "open": {
-                            "day": 6,
-                            "time": "0930"
-                        }
-                    }
-                ],
-                "weekday_text": [
-                    "Monday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-                    "Tuesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-                    "Wednesday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-                    "Thursday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-                    "Friday: 9:00 AM – 1:30 PM, 4:30 – 8:00 PM",
-                    "Saturday: 9:30 AM – 1:30 PM",
-                    "Sunday: Closed"
-                ]
-            },
-            "formatted_phone_number": "952 43 32 82",
-            "place_id": "ChIJg6-0DkXwcg0RJckwyWUq-Yo",
-            "international_phone_number": "+34 952 43 32 82"
         }
     },
     {
@@ -20647,154 +20203,6 @@
             "formatted_phone_number": "952 43 77 66",
             "place_id": "ChIJGyuwuTDwcg0Rl_XfGiRJ6w8",
             "international_phone_number": "+34 952 43 77 66"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -5.0198104,
-                37.0014832
-            ]
-        },
-        "properties": {
-            "cnn": "0129003815",
-            "caac": "4115",
-            "country": "ES",
-            "comAut": "Andalucía",
-            "province": "Málaga",
-            "town": "Málaga",
-            "name": "NARVAEZ GARCIA, MIGUEL DOMINGO",
-            "pharmacy_name": "Miguel Angel Alcalá Pérez",
-            "address": "C. Cortina Estación, 42, 29330 Almargen, Málaga, Spain",
-            "postal_code": "29330",
-            "schedule": {
-                "periods": [
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "1500"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 1,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 1,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "1500"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 2,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 2,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "1500"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 3,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 3,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "1500"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 4,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 4,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "1500"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "0930"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 5,
-                            "time": "2030"
-                        },
-                        "open": {
-                            "day": 5,
-                            "time": "1700"
-                        }
-                    },
-                    {
-                        "close": {
-                            "day": 6,
-                            "time": "1300"
-                        },
-                        "open": {
-                            "day": 6,
-                            "time": "1000"
-                        }
-                    }
-                ],
-                "weekday_text": [
-                    "Monday: 9:30 AM – 3:00 PM, 5:00 – 8:30 PM",
-                    "Tuesday: 9:30 AM – 3:00 PM, 5:00 – 8:30 PM",
-                    "Wednesday: 9:30 AM – 3:00 PM, 5:00 – 8:30 PM",
-                    "Thursday: 9:30 AM – 3:00 PM, 5:00 – 8:30 PM",
-                    "Friday: 9:30 AM – 3:00 PM, 5:00 – 8:30 PM",
-                    "Saturday: 10:00 AM – 1:00 PM",
-                    "Sunday: Closed"
-                ]
-            },
-            "formatted_phone_number": "952 18 26 01",
-            "place_id": "ChIJ9zTvXoqycg0RcqcFxwvvNzs",
-            "international_phone_number": "+34 952 18 26 01"
         }
     },
     {
@@ -28769,6 +28177,450 @@
             "formatted_phone_number": "669 20 50 40",
             "place_id": "ChIJSTrLEzZZcg0Rgx-zLu-P0uQ",
             "international_phone_number": "+34 669 20 50 40"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.454513599999999,
+                36.71749359999999
+            ]
+        },
+        "properties": {
+            "cnn": "0129003815",
+            "caac": "4115",
+            "country": "ES",
+            "comAut": "Andalucía",
+            "province": "Málaga",
+            "town": "Málaga",
+            "name": "NARVAEZ GARCIA, MIGUEL DOMINGO",
+            "pharmacy_name": "Farmacia La Barriguilla",
+            "address": "29007 Málaga, Spain",
+            "postal_code": "29007",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0930"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Friday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                    "Saturday: 9:30 AM – 2:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "952 33 20 01",
+            "place_id": "ChIJo4B6gWv3cg0RSy5kn2iqbOA",
+            "international_phone_number": "+34 952 33 20 01"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.4223306,
+                36.7153342
+            ]
+        },
+        "properties": {
+            "cnn": "0129006242",
+            "caac": "4567",
+            "country": "ES",
+            "comAut": "Andalucía",
+            "province": "Málaga",
+            "town": "Málaga",
+            "name": "AGUILAR HURTADO, FELISA /HURTADO AGUILAR, INMACULADA",
+            "pharmacy_name": "Farmacia del Soho",
+            "address": "C. Tomás Heredia, 23, 29001 Málaga, Spain",
+            "postal_code": "29001",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0930"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
+                    "Tuesday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
+                    "Wednesday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
+                    "Thursday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
+                    "Friday: 9:30 AM – 1:30 PM, 5:00 – 8:30 PM",
+                    "Saturday: 10:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "952 21 52 46",
+            "place_id": "ChIJqyku75P3cg0RLGxA4gUizh8",
+            "international_phone_number": "+34 952 21 52 46"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.462225800000001,
+                36.71725389999999
+            ]
+        },
+        "properties": {
+            "cnn": "0129006759",
+            "caac": "4681",
+            "country": "ES",
+            "comAut": "Andalucía",
+            "province": "Málaga",
+            "town": "Málaga",
+            "name": "LAZA GARCIA, JOSE MARIA",
+            "pharmacy_name": "City of Justice Drugstore",
+            "address": "Calle Pirandello, 8, 29010 Málaga, Spain",
+            "postal_code": "29010",
+            "schedule": {
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1700"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 1:30 PM, 5:00 – 9:30 PM",
+                    "Tuesday: 9:00 AM – 1:30 PM, 5:00 – 9:30 PM",
+                    "Wednesday: 9:00 AM – 1:30 PM, 5:00 – 9:30 PM",
+                    "Thursday: 9:00 AM – 1:30 PM, 5:00 – 9:30 PM",
+                    "Friday: 9:00 AM – 1:30 PM, 5:00 – 9:30 PM",
+                    "Saturday: 10:00 AM – 1:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "formatted_phone_number": "952 39 57 83",
+            "place_id": "ChIJhVq6AUH3cg0RgxbGpvRnTQI",
+            "international_phone_number": "+34 952 39 57 83"
         }
     }
 ]

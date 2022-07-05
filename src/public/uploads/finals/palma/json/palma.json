@@ -6194,35 +6194,6 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                2.73061,
-                39.54732
-            ]
-        },
-        "properties": {
-            "cnn": "0407002613",
-            "caac": "PM010",
-            "country": "ES",
-            "comAut": "Illes Balears",
-            "province": "Illes Balears",
-            "town": "Palma",
-            "name": "GOMEZ GARCIA, JOSE MIGUEL",
-            "pharmacy_name": "Farmacia Gómez García",
-            "address": "Lugar Aeropuerto Son Sant Joan, 0 S N Facturación P 2, 07071 Palma, Islas Baleares, Spain",
-            "postal_code": "07071",
-            "schedule": {
-                "periods": "",
-                "weekday_text": ""
-            },
-            "formatted_phone_number": "971 78 99 14",
-            "place_id": "ChIJ-13r1C-UlxIR_s37j5Ef3Ug",
-            "international_phone_number": "+34 971 78 99 14"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
                 2.6925037,
                 39.55178289999999
             ]
@@ -14701,6 +14672,50 @@
             "formatted_phone_number": "971 79 81 38",
             "place_id": "ChIJp4N1A3uNlxIRezURdEFP1pA",
             "international_phone_number": "+34 971 79 81 38"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.6412279,
+                39.57831289999999
+            ]
+        },
+        "properties": {
+            "cnn": "0407002613",
+            "caac": "PM010",
+            "country": "ES",
+            "comAut": "Illes Balears",
+            "province": "Illes Balears",
+            "town": "Palma",
+            "name": "GOMEZ GARCIA, JOSE MIGUEL",
+            "pharmacy_name": "Farmàcia 24 Hores",
+            "address": "Carrer de la Balanguera, 15, 07011 Palma, Illes Balears, Spain",
+            "postal_code": "07011",
+            "schedule": {
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "time": "0000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "formatted_phone_number": "971 45 87 88",
+            "place_id": "ChIJITGQAF-SlxIRGtfCIBfYIOo",
+            "international_phone_number": "+34 971 45 87 88"
         }
     }
 ]
