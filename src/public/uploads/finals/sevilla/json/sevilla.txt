@@ -1,0 +1,20 @@
+0141000850;BERRIATUA HORTA,CARMEN / MONTES BERRIATUA, MARTA;19943;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141005471;BURGOS GONZALEZ,MAGDALENA;19823;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141005678;BASILIO NUÑEZ, MARIA DOLORES;20296;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000828;ABASCAL ALONSO,FERNANDO;19900;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no hi ha numero del carrer)
+
+0141005477;ARIAS SAN ROMAN,CONCEPCION;19830;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(carrer possiblement canviat de nom)
+
+0141000806;BLAZQUEZ PEREZ, MARIA DOLORES;19858;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(fora de la ciutat)
+
+0141004421;BEJARANO CARMONA, CONCEPCION;20444;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no streetview, no farmacia)

@@ -1,0 +1,1939 @@
+[
+  {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.974215599999999,
+      37.3683121
+    ]
+  },
+  "properties": {
+    "cnn": "0141000817",
+    "caac": "19878",
+    "country": "ES",
+    "comAut": "Andalucía",
+    "province": "Sevilla",
+    "town": "Sevilla",
+    "name": "ARANGUETE ROMAN, ROCIO/ PAREJO DORADO, PILAR",
+    "pharmacy_name": "Farmacia Optica",
+    "address": "C. Lora del Río, 26, 41013 Sevilla, Spain",
+    "postal_code": "41013",
+    "schedule": {
+      "periods": "",
+      "weekday_text": ""
+    },
+    "place_id": "ChIJkwBQCoVuEg0RkQOtYBNBh1Y"
+  }
+},
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.003959899999999,
+        37.3771457
+      ]
+    },
+    "properties": {
+      "cnn": "0141000830",
+      "caac": "19906",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "AGUERA MARQUEZ, NATIVIDAD",
+      "pharmacy_name": "Farmacia Ochoa Romero",
+      "address": "C. Virgen de Fátima, 1, 41010 Sevilla, Spain",
+      "postal_code": "41010",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1500"
+            },
+            "open": {
+              "day": 1,
+              "time": "0830"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1500"
+            },
+            "open": {
+              "day": 2,
+              "time": "0830"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1500"
+            },
+            "open": {
+              "day": 3,
+              "time": "0830"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1500"
+            },
+            "open": {
+              "day": 4,
+              "time": "0830"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1500"
+            },
+            "open": {
+              "day": 5,
+              "time": "0830"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:30 AM – 3:00 PM, 6:00 – 9:00 PM",
+          "Tuesday: 8:30 AM – 3:00 PM, 6:00 – 9:00 PM",
+          "Wednesday: 8:30 AM – 3:00 PM, 6:00 – 9:00 PM",
+          "Thursday: 8:30 AM – 3:00 PM, 6:00 – 9:00 PM",
+          "Friday: 8:30 AM – 3:00 PM, 6:00 – 9:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 45 73 73",
+      "place_id": "ChIJZ9sQeEBsEg0RB09FmREE1xI",
+      "international_phone_number": "+34 954 45 73 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9718995,
+        37.3811061
+      ]
+    },
+    "properties": {
+      "cnn": "0141000764",
+      "caac": "19797",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ACUÑA TALLON, ISIDRO/ ACUÑA TALLON, ASUNCION",
+      "pharmacy_name": "Farmacia Acuña",
+      "address": "C. Divino Redentor, 6, 41005 Sevilla, Spain",
+      "postal_code": "41005",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 9:00 PM",
+          "Tuesday: 9:00 AM – 9:00 PM",
+          "Wednesday: 9:00 AM – 9:00 PM",
+          "Thursday: 9:00 AM – 9:00 PM",
+          "Friday: 9:00 AM – 9:00 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 63 61 98",
+      "place_id": "ChIJFxbM5ZduEg0Rk3vQ_jpR0Bs",
+      "international_phone_number": "+34 954 63 61 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.927047200000001,
+        37.3995919
+      ]
+    },
+    "properties": {
+      "cnn": "0141004781",
+      "caac": "19861",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BARRAGAN FUENTES,BRIGIDA/ DOMINGUEZ BARRAGAN, MARIA",
+      "pharmacy_name": "Farmacia Aleste",
+      "address": "Av. de las Ciencias, 49, 41020 Sevilla, Spain",
+      "postal_code": "41020",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 9:00 PM",
+          "Tuesday: 9:00 AM – 9:00 PM",
+          "Wednesday: 9:00 AM – 9:00 PM",
+          "Thursday: 9:00 AM – 9:00 PM",
+          "Friday: 9:00 AM – 9:00 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 40 14 50",
+      "place_id": "ChIJ7f0ofTFvEg0RXxdjbtObuuM",
+      "international_phone_number": "+34 954 40 14 50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.946691299999999,
+        37.3849651
+      ]
+    },
+    "properties": {
+      "cnn": "0141005503",
+      "caac": "19907",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ANDRES MARTIN,LOURDES/ANDRES MARTIN,MAª ISABEL",
+      "pharmacy_name": "Farmacia Santa Aurelia C. B.",
+      "address": "C. Satsuma, 14, 41006 Sevilla, Spain",
+      "postal_code": "41006",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2030"
+            },
+            "open": {
+              "day": 1,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2030"
+            },
+            "open": {
+              "day": 2,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2030"
+            },
+            "open": {
+              "day": 3,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2030"
+            },
+            "open": {
+              "day": 4,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2030"
+            },
+            "open": {
+              "day": 5,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Thursday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 52 52 19",
+      "place_id": "ChIJNbvs0N1uEg0RaralqlFVzhg",
+      "international_phone_number": "+34 954 52 52 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.958333199999999,
+        37.375446
+      ]
+    },
+    "properties": {
+      "cnn": "0141000868",
+      "caac": "19976",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BERNABEU BOU, ROCIO",
+      "pharmacy_name": "Farmacia Bernabeu",
+      "address": "C. Juan de Ledesma, 111, 41006 Sevilla, Spain",
+      "postal_code": "41006",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2030"
+            },
+            "open": {
+              "day": 1,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2030"
+            },
+            "open": {
+              "day": 2,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2030"
+            },
+            "open": {
+              "day": 3,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2030"
+            },
+            "open": {
+              "day": 4,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2030"
+            },
+            "open": {
+              "day": 5,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Tuesday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Wednesday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Thursday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Friday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "678 18 61 49",
+      "place_id": "ChIJ18dRQOxuEg0RWE3Fdhy-Rjg",
+      "international_phone_number": "+34 678 18 61 49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.960308299999999,
+        37.3943012
+      ]
+    },
+    "properties": {
+      "cnn": "0141001090",
+      "caac": "20445",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ABAD MARTIN DE EUGENIO,PILAR",
+      "pharmacy_name": "Farmacia San Pablo",
+      "address": "C. Jerusalén, 35, 41007 Sevilla, Spain",
+      "postal_code": "41007",
+      "schedule": {
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "formatted_phone_number": "954 51 91 21",
+      "place_id": "ChIJ-fwzQshuEg0RdCbWTbKFg3U",
+      "international_phone_number": "+34 954 51 91 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.991721999999999,
+        37.4024181
+      ]
+    },
+    "properties": {
+      "cnn": "0141000801",
+      "caac": "19853",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ALGARIN FIESTAS,MARGARITA Y GLORIA/ SALAYA ALGARIN, MARGARITA",
+      "pharmacy_name": "Farmacia Del Pilar - Sevilla (Filorga, Nuxe, La Roche Posay, Cantabria, Pranarom...)",
+      "address": "Feria, 160, 41002 Sevilla, Spain",
+      "postal_code": "41002",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Tuesday: 9:00 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Wednesday: 9:00 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Thursday: 9:00 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Friday: 9:00 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "659 17 95 62",
+      "place_id": "ChIJTU-HevhrEg0RbHXSDHLma2A",
+      "international_phone_number": "+34 659 17 95 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9678758,
+        37.4050753
+      ]
+    },
+    "properties": {
+      "cnn": "0141000883",
+      "caac": "19995",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BOZA JIMENEZ, MAª CARMEN / BOZA JIMENEZ, MARIA DEL MAR",
+      "pharmacy_name": "Farmacia Las Naciones CB",
+      "address": "C. las Naciones, 27, 41008 Sevilla, Spain",
+      "postal_code": "41008",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2030"
+            },
+            "open": {
+              "day": 1,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2030"
+            },
+            "open": {
+              "day": 2,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2030"
+            },
+            "open": {
+              "day": 3,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2030"
+            },
+            "open": {
+              "day": 4,
+              "time": "1730"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2030"
+            },
+            "open": {
+              "day": 5,
+              "time": "1730"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Thursday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 35 64 98",
+      "place_id": "ChIJ_95OhUxpEg0RvTrZ6e-6SUE",
+      "international_phone_number": "+34 954 35 64 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.983881999999999,
+        37.4009525
+      ]
+    },
+    "properties": {
+      "cnn": "0141000856",
+      "caac": "19956",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ARGUELLES RODRIGUEZ, AGUSTIN",
+      "pharmacy_name": "FARMACIA JARDIN DE CAPUCHINOS SCIVILP",
+      "address": "C/ León XIII, 7, 41009 Sevilla, Spain",
+      "postal_code": "41009",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2030"
+            },
+            "open": {
+              "day": 1,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2030"
+            },
+            "open": {
+              "day": 2,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2030"
+            },
+            "open": {
+              "day": 3,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2030"
+            },
+            "open": {
+              "day": 4,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2030"
+            },
+            "open": {
+              "day": 5,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0900"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+          "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+          "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+          "Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+          "Friday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+          "Saturday: 9:00 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 36 07 96",
+      "place_id": "ChIJd4Re1ittEg0RUPjQWxOhVYA",
+      "international_phone_number": "+34 954 36 07 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.944628,
+        37.40454
+      ]
+    },
+    "properties": {
+      "cnn": "0141001139",
+      "caac": "20568",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ALONSO BUENAPOSADA,JOSE MANUEL",
+      "pharmacy_name": "Farmacia Los Milanos, María Luisa Martínez Sánchez",
+      "address": "C. Milano Plomizo, 3, Edificio senador, 41020 Sevilla, Spain",
+      "postal_code": "41020",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 10:00 PM",
+          "Tuesday: 9:30 AM – 10:00 PM",
+          "Wednesday: 9:30 AM – 10:00 PM",
+          "Thursday: 9:30 AM – 10:00 PM",
+          "Friday: 9:30 AM – 10:00 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 67 36 65",
+      "place_id": "ChIJa_0HMytpEg0RxWJC-zFTlmA",
+      "international_phone_number": "+34 954 67 36 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.968569999999999,
+        37.42060999999999
+      ]
+    },
+    "properties": {
+      "cnn": "0141000778",
+      "caac": "19813",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BALSERA FERNANDEZ,ENCARNACION",
+      "pharmacy_name": "Farmacia Ldo. Rafael Tejada Romero",
+      "address": "Calle, Cam. de los Toros, 41015 Sevilla, Spain",
+      "postal_code": "41015",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "0000"
+            },
+            "open": {
+              "day": 0,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "0000"
+            },
+            "open": {
+              "day": 1,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "0000"
+            },
+            "open": {
+              "day": 2,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "0000"
+            },
+            "open": {
+              "day": 3,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "0000"
+            },
+            "open": {
+              "day": 4,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "0000"
+            },
+            "open": {
+              "day": 5,
+              "time": "0800"
+            }
+          },
+          {
+            "close": {
+              "day": 0,
+              "time": "0000"
+            },
+            "open": {
+              "day": 6,
+              "time": "0800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 8:00 AM – 12:00 AM",
+          "Tuesday: 8:00 AM – 12:00 AM",
+          "Wednesday: 8:00 AM – 12:00 AM",
+          "Thursday: 8:00 AM – 12:00 AM",
+          "Friday: 8:00 AM – 12:00 AM",
+          "Saturday: 8:00 AM – 12:00 AM",
+          "Sunday: 8:00 AM – 12:00 AM"
+        ]
+      },
+      "formatted_phone_number": "954 94 25 68",
+      "place_id": "ChIJ4zvYsENpEg0RlH2OXxEtC4Q",
+      "international_phone_number": "+34 954 94 25 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.986580699999999,
+        37.4219948
+      ]
+    },
+    "properties": {
+      "cnn": "0141005689",
+      "caac": "20324",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ARENAS VARGAS,MANUEL",
+      "pharmacy_name": "Arenas Gordillo C. B. Pharmacy",
+      "address": "C. Rio Piedras, 3, 41015 Sevilla, Spain",
+      "postal_code": "41015",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Tuesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Wednesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Thursday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Friday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Saturday: 9:30 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 37 33 49",
+      "place_id": "ChIJPSiD8eBrEg0RFOoI_sLMra4",
+      "international_phone_number": "+34 954 37 33 49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9848449,
+        37.39337989999999
+      ]
+    },
+    "properties": {
+      "cnn": "0141000770",
+      "caac": "19803",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ALVAREZ DELGADO, EVA MARIA",
+      "pharmacy_name": "Farmacia Puerta Osario",
+      "address": "C. Prta del Osario, 7, 41003 Sevilla, Spain",
+      "postal_code": "41003",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0900"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1700"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "1400"
+            },
+            "open": {
+              "day": 6,
+              "time": "0900"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Thursday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Friday: 9:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Saturday: 9:00 AM – 2:00 PM",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 42 13 08",
+      "place_id": "ChIJ-YIz7AJsEg0R499GbETCuvw",
+      "international_phone_number": "+34 954 42 13 08"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9892239,
+        37.3683813
+      ]
+    },
+    "properties": {
+      "cnn": "0141000880",
+      "caac": "19990",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BARRERA DURAN, FRANCISCO MARTIN",
+      "pharmacy_name": "Farmacia",
+      "address": "C. Corpus Christi, 41012 Sevilla, Spain",
+      "postal_code": "41012",
+      "schedule": {
+        "periods": "",
+        "weekday_text": ""
+      },
+      "place_id": "ChIJuwwJOi9sEg0RqxcA7_ezYOY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.965393700000001,
+        37.3828766
+      ]
+    },
+    "properties": {
+      "cnn": "0141005465",
+      "caac": "19807",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ANDRES MARTIN, JOSE MANUEL",
+      "pharmacy_name": "Farmacia La Concepción",
+      "address": "Av. de la Cruz del Campo, nº 39, 41005 Sevilla, Spain",
+      "postal_code": "41005",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 1,
+              "time": "1400"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2100"
+            },
+            "open": {
+              "day": 1,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "1400"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2100"
+            },
+            "open": {
+              "day": 2,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "1400"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2100"
+            },
+            "open": {
+              "day": 3,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "1400"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2100"
+            },
+            "open": {
+              "day": 4,
+              "time": "1800"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "1400"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2100"
+            },
+            "open": {
+              "day": 5,
+              "time": "1800"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Tuesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Wednesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Thursday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Friday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ]
+      },
+      "formatted_phone_number": "954 57 41 74",
+      "place_id": "ChIJk9ECOr5uEg0RAjPAdj-vPX8",
+      "international_phone_number": "+34 954 57 41 74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.9358111,
+        37.4215526
+      ]
+    },
+    "properties": {
+      "cnn": "0141001124",
+      "caac": "20544",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "ACOSTA PELAEZ, JOSE LUIS",
+      "pharmacy_name": "Farmacia Lda M Nieves González",
+      "address": "C. Fuente Milanos, 6, 41019 Sevilla, Spain",
+      "postal_code": "41019",
+      "schedule": {
+        "periods": "",
+        "weekday_text": ""
+      },
+      "place_id": "ChIJxzsqHNxoEg0RhiunxTjyak8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -5.953750199999999,
+        37.3822227
+      ]
+    },
+    "properties": {
+      "cnn": "0141000865",
+      "caac": "19973",
+      "country": "ES",
+      "comAut": "Andalucía",
+      "province": "Sevilla",
+      "town": "Sevilla",
+      "name": "BELLIDO SANCHEZ, JOSE LUIS",
+      "pharmacy_name": "Farmacia Los Pajaritos",
+      "address": "C. Candelería, 28, 41006 Sevilla, Spain",
+      "postal_code": "41006",
+      "schedule": {
+        "periods": [
+          {
+            "close": {
+              "day": 0,
+              "time": "2200"
+            },
+            "open": {
+              "day": 0,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 1,
+              "time": "2200"
+            },
+            "open": {
+              "day": 1,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 2,
+              "time": "2200"
+            },
+            "open": {
+              "day": 2,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 3,
+              "time": "2200"
+            },
+            "open": {
+              "day": 3,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 4,
+              "time": "2200"
+            },
+            "open": {
+              "day": 4,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 5,
+              "time": "2200"
+            },
+            "open": {
+              "day": 5,
+              "time": "0930"
+            }
+          },
+          {
+            "close": {
+              "day": 6,
+              "time": "2200"
+            },
+            "open": {
+              "day": 6,
+              "time": "0930"
+            }
+          }
+        ],
+        "weekday_text": [
+          "Monday: 9:30 AM – 10:00 PM",
+          "Tuesday: 9:30 AM – 10:00 PM",
+          "Wednesday: 9:30 AM – 10:00 PM",
+          "Thursday: 9:30 AM – 10:00 PM",
+          "Friday: 9:30 AM – 10:00 PM",
+          "Saturday: 9:30 AM – 10:00 PM",
+          "Sunday: 9:30 AM – 10:00 PM"
+        ]
+      },
+      "formatted_phone_number": "954 63 26 95",
+      "place_id": "ChIJ92OnKehuEg0RoTeZJT-i7Qo",
+      "international_phone_number": "+34 954 63 26 95"
+    }
+  }
+]
