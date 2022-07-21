@@ -18,3 +18,12 @@
 
 0141004421;BEJARANO CARMONA, CONCEPCION;20444;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
 (no streetview, no farmacia)
+
+0141001025;CORDOBES BERRAQUERO, ANA/ CORTES GOMEZ, M� ROSA;20323;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(afores)
+
+0141000784;CORTES JIMENEZ,ERNESTO/ TORRES CALDERON, REYES;19832;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141005478;DE MIGUEL LARA,ANTONIO;19831;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
