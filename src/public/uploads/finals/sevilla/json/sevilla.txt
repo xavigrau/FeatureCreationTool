@@ -27,3 +27,27 @@
 
 0141005478;DE MIGUEL LARA,ANTONIO;19831;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
 (no farmacia)
+
+0141001012;GALARDI GARCIA, CARMEN / MANGAS ROMERO, MARGARITA DEL VALLE;20299;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001052;GARCIA SANCHEZ, M� CARMEN/ MARTINEZ GARCIA, RAFAEL CALIXTO;20368;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(adreça rara)
+
+0141001042;GARCIA SERRANO,VICENTE/ GIRON RODRIGUEZ, FRANCISCO JAVIER;20354;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141002941;GARCIA RUIZ, FERMINA MILAGROSA;34165;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no hi ha numero de carrer ni farmacies)
+
+0141000844;GAVI�O GARCIA,NATIVIDAD;19928;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141005710;FUENTES CASTILLO,MA� LUISA;20384;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacies ni numero del carrer)
+
+0141000837;FRANCO MADERA, JOAQUIN MANUEL;19915;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141004853;GARCIA GARCIA,DANIEL;20538;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
