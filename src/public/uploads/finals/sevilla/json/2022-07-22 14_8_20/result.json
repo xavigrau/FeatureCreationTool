@@ -1,0 +1,3029 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.003201199999999,
+            37.373637
+        ]
+    },
+    "properties": {
+        "cnn": "0141005674",
+        "caac": "20285",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PARES CARPIO,LEONOR",
+        "pharmacy_name": "Carpio Pares Leonor",
+        "address": "Calle Fernando IV, 44, 41011 Sevilla, Spain",
+        "postal_code": "41011",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1720"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:20 – 8:30 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 45 52 68",
+        "place_id": "ChIJs1E8vzhsEg0RP__bkNT0Fa0",
+        "international_phone_number": "+34 954 45 52 68"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.911925399999999,
+            37.4034244
+        ]
+    },
+    "properties": {
+        "cnn": "0141004851",
+        "caac": "20531",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PARRILLA LEON,RAMON",
+        "pharmacy_name": "FARMACIA PARRILLA LEON",
+        "address": "Calle Prof. Manuel Olivencia Ruiz, 21, 41019 Sevilla, Spain",
+        "postal_code": "41019",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Saturday: 9:30 AM – 2:00 PM, 5:00 – 9:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "955 95 56 62",
+        "place_id": "ChIJpdqr9YZvEg0RcwCx25NcJf8",
+        "international_phone_number": "+34 955 95 56 62"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.970071,
+            37.39302000000001
+        ]
+    },
+    "properties": {
+        "cnn": "0141005657",
+        "caac": "20248",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "OSUNA BOCETA, CARLOS",
+        "pharmacy_name": "Farmacia Osuna Boceta Carlos",
+        "address": "plaza del martinete, 7, 41007 Sevilla, Spain",
+        "postal_code": "41007",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Friday: 9:00 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 52 04 27",
+        "place_id": "ChIJxRSnYrBuEg0R2rxhEPPfgKg",
+        "international_phone_number": "+34 954 52 04 27"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.952990599999999,
+            37.36865699999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141004804",
+        "caac": "20415",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MURILLO DELGADO, PABLO",
+        "pharmacy_name": "Farmacia 8 de Marzo. Ldo Pablo Murillo Delgado",
+        "address": "C. Ocho de Marzo, 8, 41006 Sevilla, Spain",
+        "postal_code": "41006",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+                "Tuesday: 9:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+                "Wednesday: 9:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+                "Thursday: 9:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+                "Friday: 9:00 AM – 3:00 PM, 6:00 – 9:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 65 24 52",
+        "place_id": "ChIJJXXl8vBuEg0RreQVd828obs",
+        "international_phone_number": "+34 954 65 24 52"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9616012,
+            37.3814367
+        ]
+    },
+    "properties": {
+        "cnn": "0141000846",
+        "caac": "19932",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "NUÑEZ OLIAS,FRANCISCO",
+        "pharmacy_name": "Francisco José Verdugo Núñez",
+        "address": "C. Marqués de Pickman, 49, 41005 Sevilla, Spain",
+        "postal_code": "41005",
+        "schedule": {
+            "periods": "",
+            "weekday_text": ""
+        },
+        "formatted_phone_number": "954 58 33 69",
+        "place_id": "ChIJ02BQsOpuEg0R2H8IZvgmRJ0",
+        "international_phone_number": "+34 954 58 33 69"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9784617,
+            37.3610793
+        ]
+    },
+    "properties": {
+        "cnn": "0141000994",
+        "caac": "20260",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "NETO GOMEZ, CANDELARIA / DEL RIO HOYOS, CARMEN",
+        "pharmacy_name": "Farmacia Neto Del Río",
+        "address": "C. Castillo de Constantina, 4, 41013 Sevilla, Spain",
+        "postal_code": "41013",
+        "schedule": {
+            "periods": [
+                {
+                    "open": {
+                        "day": 0,
+                        "time": "0000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
+        "formatted_phone_number": "954 61 04 37",
+        "place_id": "ChIJn60Dt4BuEg0RqSdGCN4eAsM",
+        "international_phone_number": "+34 954 61 04 37"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9823692,
+            37.4002731
+        ]
+    },
+    "properties": {
+        "cnn": "0141005711",
+        "caac": "20385",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "NARANJO GONZALEZ - POLA, EDUARDO",
+        "pharmacy_name": "Farmacia Eduardo Naranjo Gonzalez-Pola",
+        "address": "Av. la Cruz Roja, 12, 41008 Sevilla, Spain",
+        "postal_code": "41008",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Friday: 9:00 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 35 35 38",
+        "place_id": "ChIJcWJwj6puEg0RRJ1gMztoDL8",
+        "international_phone_number": "+34 954 35 35 38"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9412908,
+            37.40139
+        ]
+    },
+    "properties": {
+        "cnn": "0141000878",
+        "caac": "19987",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PALMA DEL MORAL,JUAN MIGUEL",
+        "pharmacy_name": "Farmacia Juan Miguel Palma del Moral (Los Azores)",
+        "address": "P.º Miguel Unamuno, 10, 41020 Sevilla, Spain",
+        "postal_code": "41020",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 10:00 PM",
+                "Tuesday: 9:30 AM – 10:00 PM",
+                "Wednesday: 9:30 AM – 10:00 PM",
+                "Thursday: 9:30 AM – 10:00 PM",
+                "Friday: 9:30 AM – 10:00 PM",
+                "Saturday: 9:30 AM – 10:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 25 79 16",
+        "place_id": "ChIJNfJDhtVuEg0RcFJ2hYqvcQc",
+        "international_phone_number": "+34 954 25 79 16"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.003309999999999,
+            37.3848399
+        ]
+    },
+    "properties": {
+        "cnn": "0141005510",
+        "caac": "19929",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MURILLO TARAVILLO,MAª LUISA",
+        "pharmacy_name": "Murillo Taravillo María Luisa",
+        "address": "Pl. del Altozano, 12, 41010 Sevilla, Spain",
+        "postal_code": "41010",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 33 38 87",
+        "place_id": "ChIJp1AtohRsEg0Rt4Zu_FaZTzE",
+        "international_phone_number": "+34 954 33 38 87"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9601381,
+            37.3707953
+        ]
+    },
+    "properties": {
+        "cnn": "0141005737",
+        "caac": "20458",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "OSMA ALONSO,PASION",
+        "pharmacy_name": "Farmacia Hytasa - Lda. Pasion Osma",
+        "address": "Av. de Hytasa, 57, 41006 Sevilla, Spain",
+        "postal_code": "41006",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00 AM – 10:00 PM",
+                "Tuesday: 8:00 AM – 10:00 PM",
+                "Wednesday: 8:00 AM – 10:00 PM",
+                "Thursday: 8:00 AM – 10:00 PM",
+                "Friday: 8:00 AM – 10:00 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 65 73 80",
+        "place_id": "ChIJO6AmkPJuEg0ROiM4qIKA7K0",
+        "international_phone_number": "+34 954 65 73 80"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.003309999999999,
+            37.3848399
+        ]
+    },
+    "properties": {
+        "cnn": "0141005506",
+        "caac": "19922",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MURILLO TARAVILLO,BERNARDO/MURILLO FUENTES,MAª LUISA",
+        "pharmacy_name": "Murillo Taravillo María Luisa",
+        "address": "Pl. del Altozano, 12, 41010 Sevilla, Spain",
+        "postal_code": "41010",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 33 38 87",
+        "place_id": "ChIJp1AtohRsEg0Rt4Zu_FaZTzE",
+        "international_phone_number": "+34 954 33 38 87"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.905654399999999,
+            37.38523699999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141001053",
+        "caac": "20371",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PEREZ OSTOS,ANTONIO",
+        "pharmacy_name": "Farmacia CENTRAL - Antonio Pérez Ostos",
+        "address": "C. Torrelaguna, 54, C, 41016 Sevilla, Spain",
+        "postal_code": "41016",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1430"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0830"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0830"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0830"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0830"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0830"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1430"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:30 AM – 8:30 PM",
+                "Tuesday: 8:30 AM – 8:30 PM",
+                "Wednesday: 8:30 AM – 8:30 PM",
+                "Thursday: 8:30 AM – 8:30 PM",
+                "Friday: 8:30 AM – 8:30 PM",
+                "Saturday: 9:30 AM – 2:30 PM",
+                "Sunday: 9:30 AM – 2:30 PM"
+            ]
+        },
+        "formatted_phone_number": "954 40 13 05",
+        "place_id": "ChIJQYv0fh4EMhURoSnRpnZsfYo",
+        "international_phone_number": "+34 954 40 13 05"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.005811,
+            37.3786694
+        ]
+    },
+    "properties": {
+        "cnn": "0141000822",
+        "caac": "19887",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MOYA CASTRO,PILAR",
+        "pharmacy_name": "Moya Castro, Dolores",
+        "address": "C. Trabajo, 24, 41010 Sevilla, Spain",
+        "postal_code": "41010",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 45 76 27",
+        "place_id": "ChIJE8vAP0BsEg0RUNc8xer9-Ao",
+        "international_phone_number": "+34 954 45 76 27"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9694197,
+            37.418411
+        ]
+    },
+    "properties": {
+        "cnn": "0141001078",
+        "caac": "20417",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PEREZ MIRANDA, CRISTINA",
+        "pharmacy_name": "Pérez Miranda Cristina",
+        "address": "C. Mar de Alborán, 7, 41015 Sevilla, Spain",
+        "postal_code": "41015",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 9:00 PM",
+                "Tuesday: 9:00 AM – 9:00 PM",
+                "Wednesday: 9:00 AM – 9:00 PM",
+                "Thursday: 9:00 AM – 9:00 PM",
+                "Friday: 9:00 AM – 9:00 PM",
+                "Saturday: 9:00 AM – 9:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 95 15 12",
+        "place_id": "ChIJ9x6YekRpEg0RWFOlWqHGaZk",
+        "international_phone_number": "+34 954 95 15 12"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9863988,
+            37.4103573
+        ]
+    },
+    "properties": {
+        "cnn": "0141000814",
+        "caac": "19874",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PINTO MAESTRE, CARMEN",
+        "pharmacy_name": "Farmacia Carmen Pinto Maestre",
+        "address": "Av. Sánchez Pizjuán, 26, 41009 Sevilla, Spain",
+        "postal_code": "41009",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                "Tuesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                "Wednesday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                "Thursday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                "Friday: 9:00 AM – 2:00 PM, 5:00 – 8:30 PM",
+                "Saturday: 9:00 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 37 24 96",
+        "place_id": "ChIJbxlx-fxrEg0RilGF2HGaE_w",
+        "international_phone_number": "+34 954 37 24 96"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9913183,
+            37.39359699999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141005519",
+        "caac": "19948",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PEREZ-SOLANO VAZQUEZ,ROSARIO",
+        "pharmacy_name": "Pharmacy Rosario Solano Perez Vazquez",
+        "address": "Pl. de la Encarnación, 10, 41003 Sevilla, Spain",
+        "postal_code": "41003",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 3:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:00 AM – 3:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:00 AM – 3:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:00 AM – 3:00 PM, 5:30 – 8:30 PM",
+                "Friday: 9:00 AM – 3:00 PM, 5:30 – 8:30 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 22 18 18",
+        "place_id": "ChIJCeM3AgVsEg0RreXDkMNrZhU",
+        "international_phone_number": "+34 954 22 18 18"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.002242100000001,
+            37.3816008
+        ]
+    },
+    "properties": {
+        "cnn": "0141001047",
+        "caac": "20361",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MUÑOZ RUIZ,ANGEL JOSE",
+        "pharmacy_name": "Muñoz Ruiz Angel",
+        "address": "C. Pilar de Gracia, 1, 41010 Sevilla, Spain",
+        "postal_code": "41010",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1330"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 1:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 34 11 97",
+        "place_id": "ChIJ9wLebRVsEg0RI9IoemjDMxw",
+        "international_phone_number": "+34 954 34 11 97"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.947781599999999,
+            37.3774403
+        ]
+    },
+    "properties": {
+        "cnn": "0141001062",
+        "caac": "20391",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MURILLO DELGADO, JOSE MIGUEL",
+        "pharmacy_name": "Murillo Delgado José Miguel",
+        "address": "Av. la Calesera, 13, 41006 Sevilla, Spain",
+        "postal_code": "41006",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                "Tuesday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                "Wednesday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                "Thursday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                "Friday: 9:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+                "Saturday: 9:00 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 64 63 60",
+        "place_id": "ChIJrz6iIORuEg0RVc30xrYJzuM",
+        "international_phone_number": "+34 954 64 63 60"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9744408,
+            37.4150099
+        ]
+    },
+    "properties": {
+        "cnn": "0141000811",
+        "caac": "19866",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "ORTEGA DE LA ROSA, MARIA DOLORES",
+        "pharmacy_name": "Farmacia Lda. Mª Dolores Ortega de la Rosa",
+        "address": "C. Victoria Kent, 5, 41008 Sevilla, Spain",
+        "postal_code": "41008",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 6:00 – 9:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 95 30 24",
+        "place_id": "ChIJVVXh6lppEg0Re33oNhd340g",
+        "international_phone_number": "+34 954 95 30 24"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9860143,
+            37.35932619999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141001003",
+        "caac": "20283",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "NUÑEZ VALDES, ROSARIO",
+        "pharmacy_name": "ROSARIO NUÑEZ VALDES",
+        "address": "Av. de la Reina Mercedes, 33, 41012 Sevilla, Spain",
+        "postal_code": "41012",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1630"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1630"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Tuesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Wednesday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Thursday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Friday: 9:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Saturday: 10:00 AM – 2:00 PM, 4:30 – 8:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 61 17 71",
+        "place_id": "ChIJ3QP91NRtEg0RQ-WRWTA_A_k",
+        "international_phone_number": "+34 954 61 17 71"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.993401400000001,
+            37.3829797
+        ]
+    },
+    "properties": {
+        "cnn": "0141005518",
+        "caac": "19947",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PEREZ-SOLANO RODRIGUEZ, BIBIANA",
+        "pharmacy_name": "Farmacia Lda. B. Pérez-Solano Rodríguez",
+        "address": "Av. de la Constitución, 27, 41004 Sevilla, Spain",
+        "postal_code": "41004",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0900"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 9:00 PM",
+                "Tuesday: 9:00 AM – 9:00 PM",
+                "Wednesday: 9:00 AM – 9:00 PM",
+                "Thursday: 9:00 AM – 9:00 PM",
+                "Friday: 9:00 AM – 9:00 PM",
+                "Saturday: 9:00 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 21 54 87",
+        "place_id": "ChIJ_ydqKxhsEg0R6F2jzBaIb7w",
+        "international_phone_number": "+34 954 21 54 87"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9745498,
+            37.38742939999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141000779",
+        "caac": "19814",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PANCHO MORA,MAª JOSE/ JIMENEZ PANCHO, VERONICA",
+        "pharmacy_name": "Farmacia Pancho",
+        "address": "C. Luis Montoto, 85, 41007 Sevilla, Spain",
+        "postal_code": "41007",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0800"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "0000"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0800"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 8:00 AM – 12:00 AM",
+                "Tuesday: 8:00 AM – 12:00 AM",
+                "Wednesday: 8:00 AM – 12:00 AM",
+                "Thursday: 8:00 AM – 12:00 AM",
+                "Friday: 8:00 AM – 12:00 AM",
+                "Saturday: 8:00 AM – 12:00 AM",
+                "Sunday: 8:00 AM – 12:00 AM"
+            ]
+        },
+        "formatted_phone_number": "954 58 07 98",
+        "place_id": "ChIJPxt7maRuEg0RpcE1v-jRk80",
+        "international_phone_number": "+34 954 58 07 98"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.9664692,
+            37.40165449999999
+        ]
+    },
+    "properties": {
+        "cnn": "0141001070",
+        "caac": "20401",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "MOZO DE VARGAS,PIEDAD/ RECIO MOZO, PABLO",
+        "pharmacy_name": "Farmacia Mozo C.B.",
+        "address": "C. Baltasar de Alcázar, 18, 41008 Sevilla, Spain",
+        "postal_code": "41008",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 35 94 55",
+        "place_id": "ChIJmcdJY7NuEg0RFC44x1uCM-Q",
+        "international_phone_number": "+34 954 35 94 55"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.978982199999999,
+            37.407927
+        ]
+    },
+    "properties": {
+        "cnn": "0141004419",
+        "caac": "20421",
+        "country": "ES",
+        "comAut": "Andalucía",
+        "province": "Sevilla",
+        "town": "Sevilla",
+        "name": "PEREZ RODRIGUEZ, PEDRO JOSE",
+        "pharmacy_name": "Pérez Rodríguez Pedro José",
+        "address": "C. Mar Caspio, 2, 41009 Sevilla, Spain",
+        "postal_code": "41009",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:30 – 8:30 PM",
+                "Saturday: 9:30 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "954 35 98 12",
+        "place_id": "ChIJGeeHoFZpEg0Rix7zaOhyQUw",
+        "international_phone_number": "+34 954 35 98 12"
+    }
+},
