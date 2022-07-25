@@ -1,0 +1,2272 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.697254,
+            40.400761
+        ]
+    },
+    "properties": {
+        "cnn": "1328016284",
+        "caac": "648",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CARLOS MARIA PEREZ-ACCINO PICATOSTE",
+        "pharmacy_name": "Farmacia Pérez-Accino Picatoste C B",
+        "address": "C. del Ferrocarril, 31, 28045 Madrid, Spain",
+        "postal_code": "28045",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 9:30 PM",
+                "Tuesday: 9:30 AM – 9:30 PM",
+                "Wednesday: 9:30 AM – 9:30 PM",
+                "Thursday: 9:30 AM – 9:30 PM",
+                "Friday: 9:30 AM – 9:30 PM",
+                "Saturday: 9:30 AM – 3:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "915 27 93 06",
+        "place_id": "ChIJIePDhDEmQg0RwzipHBTnykw",
+        "international_phone_number": "+34 915 27 93 06"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6870223,
+            40.4934922
+        ]
+    },
+    "properties": {
+        "cnn": "1328016266",
+        "caac": "630",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "BLANCA REINA CHACON",
+        "pharmacy_name": "Farmacia Vega",
+        "address": "Calle de Ntra. Sra. de Valverde, 14, 28034 Madrid, Spain",
+        "postal_code": "28034",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "913 58 42 54",
+        "place_id": "ChIJXbWu8mEpQg0RUE6AxKRV2Yk",
+        "international_phone_number": "+34 913 58 42 54"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.679197799999999,
+            40.42039209999999
+        ]
+    },
+    "properties": {
+        "cnn": "1328016066",
+        "caac": "440",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CARIDAD TEODORA ORTEGA DE LA TORRE",
+        "pharmacy_name": "Caridad Ortega De La Torre",
+        "address": "2º, Av. de Menéndez Pelayo, 13, 28009 Madrid, Spain",
+        "postal_code": "28009",
+        "schedule": {
+            "periods": "",
+            "weekday_text": ""
+        },
+        "formatted_phone_number": "915 74 38 23",
+        "place_id": "ChIJ7QovuqMoQg0Rbp_Dc_qHDJg",
+        "international_phone_number": "+34 915 74 38 23"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.627085200000001,
+            40.4064419
+        ]
+    },
+    "properties": {
+        "cnn": "1328016072",
+        "caac": "446",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "DANIEL INIESTA YEBRA",
+        "pharmacy_name": "Farmacia Daniel Iniesta",
+        "address": "Av. del Dr. García Tapia, 228, 28030 Madrid, Spain",
+        "postal_code": "28030",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "640 14 26 23",
+        "place_id": "ChIJ_3Fqn4QlQg0R1hohGOYJEZ0",
+        "international_phone_number": "+34 640 14 26 23"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6527301,
+            40.4393825
+        ]
+    },
+    "properties": {
+        "cnn": "1328014423",
+        "caac": "1553",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CONCEPCION VIVAR BUENO",
+        "pharmacy_name": "Vivar Bueno Pharmacy",
+        "address": "C. de Esteban Mora, 34, 28027 Madrid, Spain",
+        "postal_code": "28027",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 03 88 92",
+        "place_id": "ChIJaz8lUDcvQg0Rb72mKNy37LE",
+        "international_phone_number": "+34 914 03 88 92"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.7074813,
+            40.38815779999999
+        ]
+    },
+    "properties": {
+        "cnn": "1328014987",
+        "caac": "2075",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CAROLINA MANZANO GARCIA",
+        "pharmacy_name": "Farmacia Javier Tamayo Carmona",
+        "address": "C. Gral. Marva, 9, 28026 Madrid, Spain",
+        "postal_code": "28026",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 76 60 46",
+        "place_id": "ChIJHQJJGrQnQg0RVYIAIKlzK1Y",
+        "international_phone_number": "+34 914 76 60 46"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.664827300000001,
+            40.4281996
+        ]
+    },
+    "properties": {
+        "cnn": "1328016378",
+        "caac": "738",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "DELIA BALAS FUERTES",
+        "pharmacy_name": "Fuertes Balas C B",
+        "address": "C. del Marqués de Mondéjar, 29, 28028 Madrid, Spain",
+        "postal_code": "28028",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "917 25 30 80",
+        "place_id": "ChIJSfkvdbMoQg0Rn21gVcOxhzc",
+        "international_phone_number": "+34 917 25 30 80"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6857051,
+            40.4278941
+        ]
+    },
+    "properties": {
+        "cnn": "1328014539",
+        "caac": "1660",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CRISTINA SANZ FERNANDEZ",
+        "pharmacy_name": "Farmacia Ayala 19 - Lda.Cristina Sanz",
+        "address": "Cl. de Ayala, 19, 28001 Madrid, Spain",
+        "postal_code": "28001",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "915 76 02 95",
+        "place_id": "ChIJ8dA1jpYoQg0RCsBBGUgoS1Q",
+        "international_phone_number": "+34 915 76 02 95"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.7449571,
+            40.40125719999999
+        ]
+    },
+    "properties": {
+        "cnn": "1328014048",
+        "caac": "1203",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CARLOS LANGA AGUADO",
+        "pharmacy_name": "Farmacia Alhambra (Ldo Carlos Langa Aguado)",
+        "address": "C. de la Alhambra, 28, 28047 Madrid, Spain",
+        "postal_code": "28047",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 9:30 PM",
+                "Tuesday: 9:30 AM – 9:30 PM",
+                "Wednesday: 9:30 AM – 9:30 PM",
+                "Thursday: 9:30 AM – 9:30 PM",
+                "Friday: 9:30 AM – 9:30 PM",
+                "Saturday: 9:30 AM – 9:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 64 65 03",
+        "place_id": "ChIJG-uMtQKIQQ0R6hcT4gUNguY",
+        "international_phone_number": "+34 914 64 65 03"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6880414,
+            40.3406496
+        ]
+    },
+    "properties": {
+        "cnn": "1328013970",
+        "caac": "1127",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CATALINA DIAZ CARMONA",
+        "pharmacy_name": "Farmacia Catalina Díaz Carmona",
+        "address": "C. de Godella, 147, 28021 Madrid, Spain",
+        "postal_code": "28021",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1500"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 3:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "917 98 40 58",
+        "place_id": "ChIJq1Z3Ns8mQg0Rg2b47DTQFfk",
+        "international_phone_number": "+34 917 98 40 58"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.693221900000001,
+            40.4302052
+        ]
+    },
+    "properties": {
+        "cnn": "1328014876",
+        "caac": "1974",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CLARA VICTORIA RUEDA DE LECEA",
+        "pharmacy_name": "Farmacia Clara Rueda de Lecea",
+        "address": "Calle Almagro, 11, 28010 Madrid, Spain",
+        "postal_code": "28010",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1015"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 9:30 PM",
+                "Tuesday: 9:30 AM – 9:30 PM",
+                "Wednesday: 9:30 AM – 9:30 PM",
+                "Thursday: 9:30 AM – 9:30 PM",
+                "Friday: 9:30 AM – 9:30 PM",
+                "Saturday: 10:15 AM – 9:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "913 08 18 55",
+        "place_id": "ChIJOVk_jo0oQg0RoCXTVI2iCFI",
+        "international_phone_number": "+34 913 08 18 55"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.7010472,
+            40.3965012
+        ]
+    },
+    "properties": {
+        "cnn": "1328013972",
+        "caac": "1129",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "DIEGO OTERO MARTINEZ",
+        "pharmacy_name": "Farmacia Otero Martinez",
+        "address": "P.º de la Chopera, 13, 28045 Madrid, Spain",
+        "postal_code": "28045",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:00 – 8:30 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:30 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:30 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:30 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:30 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 73 86 68",
+        "place_id": "ChIJW-vE6jQmQg0RujbP-z-3-Xc",
+        "international_phone_number": "+34 914 73 86 68"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.699524599999999,
+            40.3343565
+        ]
+    },
+    "properties": {
+        "cnn": "1328015513",
+        "caac": "2567",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "ELADIO GALAN  CRUZ",
+        "pharmacy_name": "Farmacia Cruz Villaverde",
+        "address": "Calle Principal, 12, 28021 Madrid, Spain",
+        "postal_code": "28021",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2100"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0900"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1430"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:00 AM – 9:00 PM",
+                "Tuesday: 9:00 AM – 9:00 PM",
+                "Wednesday: 9:00 AM – 9:00 PM",
+                "Thursday: 9:00 AM – 9:00 PM",
+                "Friday: 9:00 AM – 9:00 PM",
+                "Saturday: 9:30 AM – 2:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "917 98 32 67",
+        "place_id": "ChIJIy-gJHwnQg0RFFvUb7Kj4Sg",
+        "international_phone_number": "+34 917 98 32 67"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6362862,
+            40.40713879999999
+        ]
+    },
+    "properties": {
+        "cnn": "1328014531",
+        "caac": "1653",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "EDUARDO FERNANDEZ TORTOSA",
+        "pharmacy_name": "FARMACIA Eduardo Fernández Tortosa",
+        "address": "C. Mario Cabré, 11, 28030 Madrid, Spain",
+        "postal_code": "28030",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "916 22 58 45",
+        "place_id": "ChIJvzyC7KklQg0Rk10q-fOHkMM",
+        "international_phone_number": "+34 916 22 58 45"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6385795,
+            40.4683745
+        ]
+    },
+    "properties": {
+        "cnn": "1328014310",
+        "caac": "1450",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CRISTINA REDONDO MORRONDO",
+        "pharmacy_name": "Farmacia Cristina Redondo Morrondo",
+        "address": "C. de Torquemada, 25, 28043 Madrid, Spain",
+        "postal_code": "28043",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1530"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 9:30 PM",
+                "Tuesday: 9:30 AM – 9:30 PM",
+                "Wednesday: 9:30 AM – 9:30 PM",
+                "Thursday: 9:30 AM – 9:30 PM",
+                "Friday: 9:30 AM – 9:30 PM",
+                "Saturday: 9:30 AM – 3:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "913 81 18 02",
+        "place_id": "ChIJm9VGHukuQg0RcLWWxvamMzg",
+        "international_phone_number": "+34 913 81 18 02"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.5616435,
+            40.4064706
+        ]
+    },
+    "properties": {
+        "cnn": "1328016309",
+        "caac": "671",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "ELENA DIAZ NADELA",
+        "pharmacy_name": "Farmacia Lda Díaz Nadela Cañaveral. E+Farma",
+        "address": "Av. Miguel Delibes, 25, 28052 Madrid, Spain",
+        "postal_code": "28052",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2130"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0930"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 9:30 PM",
+                "Tuesday: 9:30 AM – 9:30 PM",
+                "Wednesday: 9:30 AM – 9:30 PM",
+                "Thursday: 9:30 AM – 9:30 PM",
+                "Friday: 9:30 AM – 9:30 PM",
+                "Saturday: 9:30 AM – 9:30 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 04 45 67",
+        "place_id": "ChIJZ-5hF0gvQg0RvfPzzN441IM",
+        "international_phone_number": "+34 914 04 45 67"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.7760826,
+            40.3776039
+        ]
+    },
+    "properties": {
+        "cnn": "1328020767",
+        "caac": "1695",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "ELENA DIAZ BAQUERO",
+        "pharmacy_name": "Farmacia Elena Díaz Baquero",
+        "address": "C. Aldeanueva de la Vera, 19, 28044 Madrid, Spain",
+        "postal_code": "28044",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2000"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1400"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Tuesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Wednesday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Thursday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Friday: 9:30 AM – 2:00 PM, 5:00 – 8:00 PM",
+                "Saturday: 10:00 AM – 2:00 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "917 05 50 50",
+        "place_id": "ChIJm_3IUlCIQQ0RiwS2zNBl5eI",
+        "international_phone_number": "+34 917 05 50 50"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.771996800000001,
+            40.46006689999999
+        ]
+    },
+    "properties": {
+        "cnn": "1328016259",
+        "caac": "623",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "ERNESTINA MARTINEZ DAVILA",
+        "pharmacy_name": "Ernestina Martínez Dávila",
+        "address": "C. de Hoces de la Hermida, 37, 28023 Madrid, Spain",
+        "postal_code": "28023",
+        "schedule": {
+            "periods": "",
+            "weekday_text": ""
+        },
+        "place_id": "ChIJz5rixw-HQQ0RLv5xrWYG_3Q"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.6527301,
+            40.4393825
+        ]
+    },
+    "properties": {
+        "cnn": "1328016571",
+        "caac": "917",
+        "country": "ES",
+        "comAut": "Madrid, Comunidad de",
+        "province": "Madrid",
+        "town": "Madrid",
+        "name": "CONCEPCION VIVAR BUENO",
+        "pharmacy_name": "Vivar Bueno Pharmacy",
+        "address": "C. de Esteban Mora, 34, 28027 Madrid, Spain",
+        "postal_code": "28027",
+        "schedule": {
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0930"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2030"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1730"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1345"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1000"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Tuesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Wednesday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Thursday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Friday: 9:30 AM – 1:45 PM, 5:30 – 8:30 PM",
+                "Saturday: 10:00 AM – 1:45 PM",
+                "Sunday: Closed"
+            ]
+        },
+        "formatted_phone_number": "914 03 88 92",
+        "place_id": "ChIJaz8lUDcvQg0Rb72mKNy37LE",
+        "international_phone_number": "+34 914 03 88 92"
+    }
+},

@@ -51,3 +51,79 @@
 
 0141004853;GARCIA GARCIA,DANIEL;20538;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
 (no farmacia)
+
+0141000826;GONZALEZ DIAZ,CONCEPCION/BISCARRI SALAZAR,MERCEDES;19893;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000802;MAGAÑA SUAREZ, Mª MERCEDES;19854;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(adreça dificil de trobar)
+
+0141002955;JUNCO SANZ, Mª DEL PINO;34208;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000821;GONZALEZ MANCHA, ANA MAª;19884;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(tancada permanentment)
+
+0141001057;MARIANO ROMERO,PATRICIO/ DE MARIANO SANCHEZ-JAUREGUI, EDUARDO JESUS;20379;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141005482;LOPEZ GARCIA,ANGUSTIAS;19862;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000860;LASARTE CARRERO, CONCEPCION;19963;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no point)
+
+0141005531;MELENDO ARANCON,ENCARNACION;19991;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001077;MOLINA BECERRA,JOSE LUIS/ DE TROYA BENJUMENA, JOSE MARIA;20416;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001126;MARTINEZ FERNANDEZ, DOLORES AUXILIADORA;20550;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000855;MARTINEZ RODRIGUEZ DE COLMENARES,ROSARIO;19955;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141004422;MORALES CAÑADAS, EUGENIA/ SERRANO MORALES, JOSE MANUEL;20459;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001096;MARTIN LEON,Mª DOLORES/ RODRIGUEZ MARTIN, MERCEDES;20470;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000876;MARTINEZ VILLASEÑOR DE MEDINA,CARMEN;19985;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(afores de sevilla)
+
+0141005508;PEREZ-TINAO GOMEZ DE SALAZAR,PILAR;19926;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no te numero del carrer)
+
+0141005507;MORON LEDRO,RAMONA;19924;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001015;MURILLO FERNANDEZ,BEATRIZ/ MURILLO FERNANDEZ,M� DOLORES;20304;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001137;PEÑA RUEDA, MARIA JOSE/ GUISADO PEÑA, MARIA;20566;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no te numero de carrer)
+
+0141001072;MURILLO PEINADO, PILAR;20405;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no hi ha farmacia)
+
+0141005720;PEÑA GRIÑAN,CARMEN / SERNA PEÑA, NICOLAS;20414;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001050;PEREZ GONZALEZ,MARGARITA;20365;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141000849;PEÑA MUÑOZ,FERNANDO/ PEÑA MUÑOZ, M� TERESA;19941;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+0141001046;POLO PIÑEIRO,MARIA / RAMOS SANCHEZ, JOSE ANTONIO;20360;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(possible nom de carrer canviat)
+
+0141005664;PEREZ FERNANDEZ,MA� DEL PRADO/PEREZ FERNANDEZ,MA� AUXILIADORA;20267;Andalucía;Sevilla;Sevilla;Oficinas de farmacia;Privados
+(no farmacia)
+
+
+
+

@@ -1,0 +1,11 @@
+1328016163;ABEL GARCIA NOCEDAL;532;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no point)
+
+1328015938;AGRIPINA OTERO LEBOREIRO;317;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(point bugg)
+
+1328014646;BEATRIZ ALVAREZ-CAMPANA REBOLLO;1760;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no farmacia)
+
+1328015987;BEATRIZ PALMA GARCIA;368;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no farmacia)
