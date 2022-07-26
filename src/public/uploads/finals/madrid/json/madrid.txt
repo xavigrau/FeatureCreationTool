@@ -9,3 +9,27 @@
 
 1328015987;BEATRIZ PALMA GARCIA;368;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
 (no farmacia)
+
+1328014868;BLANCA ISABEL GALINDO MARTINEZ;1967;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no number)
+
+1328015341;CARMEN MARIA RAMIREZ CANOVAS;240;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(tancada permanentment)
+
+1328013899;CAROLINA ROCIO CEBRIAN SANZ;1062;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no point)
+
+1328015532;CAROLINA GUEVARA MARTINEZ;2585;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(tancada???)
+
+1328014348;CONCEPCION RODRIGUEZ RODRIGUEZ;1486;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no farmacia)
+
+1328016101;ENRIQUE NICOLAS BA�OS LOPEZ;473;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(tancada temporalment)
+
+1328016139;FERNANDO OSCAR ARROYO MARTINEZ;507;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(tancada permanentment)
+
+1328014642;IRENE DE FUENTES DE FUENTES;1757;Madrid, Comunidad de;Madrid;Madrid;Oficinas de farmacia;Privados
+(no farmacia)
